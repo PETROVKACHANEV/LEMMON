@@ -1,4 +1,72 @@
 #EXTM3U
+#EXTINF:-1 group-title="RADIO",LA ROCK AND POP    
+https://panelautodj.innovatestream.pe:10951/stream
+#EXTINF:-1 group-title="RADIO",RADIO VINILO
+https://panel.innovatestream.pe/7246/stream
+#EXTINF:-1 group-title="RADIO",RADIO CAROLINA
+https://turadio.accesopanel.com/8058/;
+#EXTINF:-1 group-title="RADIO",DOBLE NUEVE
+ https://conectperu.com:7002/stream
+#EXTINF:-1 group-title="RADIO",RADIO MAGICA 
+https://25093.live.streamtheworld.com/MAG_SC
+#EXTINF:-1 group-title="RADIO",RADIO NOVENTERA
+https://streaming.gometri.com/stream/8043/stream
+#EXTINF:-1 group-title="RADIO",PBO RADIO
+https://n12.radiojar.com/2fse67zuv8hvv?rj-ttl=5&type=mp3&rj-tok=AAABhyVncXgAeHwMB1j27lwdVg
+#EXTINF:-1 group-title="RADIO",RADIO FELICIDAD
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7?aid=5faaeb72f92d7b07dfe10181&pid=a6RkcL9cdU8tEX5m5rrw80cUmeMYz0M2&sid=urBsOMFiFyBeR1vUrjlbiSup1MfVpWvC&uid=x3Ha4LGDk3fdDGGhObdOhTXTzMM8ov1b&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1680046073731&ot=W3eME-JcHVq_PTmnegDu-g&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fad731fcf097a068af3c8f7&referer=https%3A%2F%2Fwww.tvspacehd.com%2F
+#EXTINF:-1 group-title="RADIO",RADIO ROMANTICA
+https://25083.live.streamtheworld.com/CRP_RIT_SC
+#EXTINF:-1 group-title="RADIO",RADIO NUEVAQ
+https://23043.live.streamtheworld.com/CRP_NQAAC.aac
+#EXTINF:-1 group-title="RADIO",RADIO NUEVAQ 2
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQAAC.aac
+#EXTINF:-1 group-title="RADIO",RADIO LA ZONA 
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5?aid=5faaeb72f92d7b07dfe10181&pid=1kdq5ErV05X72E3067dRk52epulvQxfD&sid=u8t4HQl0rXS1jtIa0N2CRdpL2Za2zKcs&uid=USAx5hk4SUYUH1ozzkdPzcmqnGytYwSv&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1680046519742&ot=JHHpIWNNZQJoSytJn3d-rQ&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&referer=https%3A%2F%2Fwww.tvspacehd.com%2F
+#EXTINF:-1 group-title="RADIO",RADIO PLANETA 
+https://15723.live.streamtheworld.com/CRP_PLA_SC
+#EXTINF:-1 group-title="RADIO",RADIO STUDIO 92
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea?aid=5faaeb72f92d7b07dfe10181&pid=XPSDZp5uk0uzT7VKDKWzh1Ifibw77ypm&sid=r8UBgI82U8OnxrmRoluNAI8HEbuGk2o7&uid=o8zURmPBiqUNTEMQgAH0CJl2gFAVIEG3&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1680046576571&ot=_kgcwl6Dm-yUS84Ox9cDDg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&referer=https%3A%2F%2Fwww.tvspacehd.com%2F
+#EXTINF:-1 group-title="RADIO",RADIO MEGAMIX
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=645b388700fc0e09_9069704_xYLbHhmW__0000003D9XU&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&pid=7NPF1ysIl1XHtWwbKxvUcfhcuFEig7xi&sid=ivmQduiypEeOSrnhisheIQgMG50BBBeD&uid=HwK635emf4XvNxP5Vy21c1mPMz8xkMSC&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1692855947765&ot=zViy2HIm454PfjiLaKYmKA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Fradios.com.pe%2F&listenerId=HwK635emf4XvNxP5Vy21c1mPMz8xkMSC
+#EXTINF:-1 group-title="RADIO",RADIO VIVA FM
+https://tupanel.info:8780//stream
+#EXTINF:-1 group-title="RADIO",GENERACION KPOP
+https://stream9.mexiserver.com/8242/stream/1/
+#EXTINF:-1 group-title="RADIO",RADIO DISNEY 
+https://27403.live.streamtheworld.com/DISNEY_PER_LM.mp3
+#EXTINF:-1 group-title="RADIO",RADIO TELESTEREO
+https://serverssl.innovatestream.pe:8080
+#EXTINF:-1 group-title="RADIO",RADIO FILARMONIA
+https://c22.radioboss.fm:18100/live
+#EXTINF:-1 group-title="RADIO",RADIO PLANICIE
+https://radio.livestreamingmundial.com:7071
+#EXTINF:-1 group-title="RADIO",RADIO Z ROCK&POP
+https://stream.cusac.online/885-26fea3af-c83a-4d7e
+#EXTINF:-1 group-title="RADIO",RADIO OXIGENO
+https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
+#EXTINF:-1 group-title="RADIO",RADIO 1160 AL ROJO VIVO
+https://mdstrm.com/audio/6598b6e1261d9e088a6de859/icecast.audio
+#EXTINF:-1 group-title="RADIO",RADIO NACIONAL
+https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
+#EXTINF:-1 group-title="RADIO",RADIO ONDACERO
+https://mdstrm.com/audio/6598b65ab398c90871aff8cc/icecast.audio
+#EXTINF:-1 group-title="RADIO",RADIOMAR
+https://18313.live.streamtheworld.com/CRP_MAR_SC
+#EXTINF:-1 group-title="RADIO",RADIO CORAZON
+https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio
+#EXTINF:-1 group-title="RADIO",RADIO PANAMERICANA
+https://mdstrm.com/audio/6598b62dded1380470f4e539/icecast.audio
+#EXTINF:-1 group-title="RADIO",RADIO LA INOLVIDABLE
+https://27613.live.streamtheworld.com/CRP_LI_SC
+#EXTINF:-1 group-title="RADIO",RADIO MODA
+https://13743.live.streamtheworld.com/CRP_MOD_SC
+#EXTINF:-1 group-title="RADIO",RADIO EXITOSA
+https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
+#EXTINF:-1 group-title="RADIO",RADIO RPP
+https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
+#EXTINF:-1 group-title="RADIO",RADIO SAN BORJA
+https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Cuentos_de_Terramar-162148520-large.jpg",Cuentos de Terramar
 http://ia902704.us.archive.org/24/items/Peliculas-wii/Cuentos%20de%20Terramar.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Earwig_y_la_bruja-802898174-large.jpg",Earwig y la bruja
