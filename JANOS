@@ -1,42 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="ANIME", JANOSCH 1
-https://dn720308.ca.archive.org/0/items/el-oso-el-tigre-y-los-demas-01-que-hermoso-es-panama-janosch-traumstunde/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20-%2001%20-%20%C2%A1Qu%C3%A9%20hermoso%20es%20Panam%C3%A1%21%20%28Janosch%20Traumstunde%29.ia.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 2
-https://dn720409.ca.archive.org/0/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-02-correo-para-el-tigre/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2002%20-%20Correo%20para%20el%20Tigre.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 4
-https://ia601901.us.archive.org/0/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-04-el-violin-magico-de-yosa/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2004%20-%20El%20viol%C3%ADn%20m%C3%A1gico%20de%20Yosa.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 5
-https://ia601900.us.archive.org/33/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-05-el-titere-parlanchin/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2005%20-%20El%20T%C3%ADtere%20Parlanch%C3%ADn.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 6
-https://ia601901.us.archive.org/22/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-06-el-piel-roja-invisible/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2006%20-%20El%20Piel%20Roja%20invisible.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 7
-https://ia802907.us.archive.org/4/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-07-las-doce-estaciones-del-caracolarril/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2007%20-%20Las%20doce%20estaciones%20del%20caracolarril.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 8
-https://ia801900.us.archive.org/17/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-08-tres-ladrones-y-el-rey-de-los-cuervos/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2008%20-%20Tres%20ladrones%20y%20el%20Rey%20de%20los%20cuervos.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 9
-https://dn720402.ca.archive.org/0/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-09-la-liebresita-valeriana/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2009%20-%20La%20liebresita%20Valeriana.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 11
-https://dn720309.ca.archive.org/0/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-11-yo-te-voy-a-curar-dijo-el-oso/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2011%20-%20Yo%20te%20voy%20a%20curar%2C%20dijo%20el%20Oso.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 12
-https://ia801900.us.archive.org/24/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-12-el-barquito-pantalujama/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2012%20-%20El%20barquito%20Pantalujama.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 13
-https://ia801900.us.archive.org/6/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-13-adios-chanchita/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2013%20-%20Adi%C3%B3s%2C%20Chanchita.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 14
-https://ia601901.us.archive.org/1/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-14-el-titere-parlanchin-es-rico/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2014%20-%20El%20T%C3%ADtere%20Parlanch%C3%ADn%20es%20rico.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 15
-https://ia601900.us.archive.org/13/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-15-el-pato-tigre-y-la-rana/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2015%20-%20El%20Pato-Tigre%20y%20la%20Rana.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 18
-https://ia601900.us.archive.org/3/items/tigre-y-los-demas-janosch-traumstunde-18-pelusa-atrapa-una-liebre/Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2018%20-%20Pelusa%20atrapa%20una%20liebre.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 19
-https://ia902907.us.archive.org/33/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-19-diente-de-leon-y-patita-de-seda/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2019%20-%20Diente%20de%20Le%C3%B3n%20y%20Patita%20de%20Seda.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 21
-https://dn720306.ca.archive.org/0/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-21-lucas-comino/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2021%20-%20Lucas%20Comino.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 22
-https://dn720408.ca.archive.org/0/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-22-antek-pistola-de-margaritolandia/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2022%20-%20Antek%20Pistola%20de%20Margaritolandia.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 25
-https://ia801901.us.archive.org/6/items/el-oso-el-tigre-y-los-demas-janosch-traumstunde-25-oh-querido-muneco-de-nieve/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20%28Janosch%20Traumstunde%29%20-%2025%20-%20Oh%2C%20querido%20mu%C3%B1eco%20de%20nieve.mp4
-#EXTINF:-1 group-title="ANIME", JANOSCH 26
-https://ia801901.us.archive.org/23/items/el-oso-el-tigre-y-los-demas-26-una-gran-fiesta-para-el-tigrecito-janosch-traumstunde/El%20Oso%2C%20El%20Tigre%20y%20los%20dem%C3%A1s%20-%2026%20-%20Una%20gran%20fiesta%20para%20el%20Tigrecito%20%28Janosch%20Traumstunde%29.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Cuentos_de_Terramar-162148520-large.jpg",Cuentos de Terramar
 http://ia902704.us.archive.org/24/items/Peliculas-wii/Cuentos%20de%20Terramar.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Earwig_y_la_bruja-802898174-large.jpg",Earwig y la bruja
