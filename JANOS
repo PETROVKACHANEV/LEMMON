@@ -235,147 +235,147 @@ http://live.lordstreams.co:8080/68541544/56220369/52195
 http://live.lordstreams.co:8080/68541544/56220369/52212
 #EXTINF:-1 group-title="USA",WORLD DANCE
 http://live.lordstreams.co:8080/68541544/56220369/52566
-#EXTINF:-1 ,BR Globo SP HD
+#EXTINF:-1 group-title="BRASIL",GLOBO HD
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/21020
-#EXTINF:-1 ,BR: SBT HD
+#EXTINF:-1 group-title="BRASIL",SBT HD
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/20978
-#EXTINF:-1 ,CO: CARACOL INTERNACIONAL HD
+#EXTINF:-1 group-title="COLOMBIA",INTERNACIONAL HD
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78701
-#EXTINF:-1 ,CO: CARCOL HD
+#EXTINF:-1 group-title="COLOMBIA",CARACOL HD
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78700
-#EXTINF:-1 ,COL: WIN SPORTS PLUS HD (EXCLUSIVO)
+#EXTINF:-1 group-title="SPORTS",WIN SPORTS PLUS HD (EXCLUSIVO)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78697
-#EXTINF:-1 ,CO: RCN NOVELAS
+#EXTINF:-1 group-title="COLOMBIA",RCN NOVELAS
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78716
-#EXTINF:-1 ,CO: TELECAFE
+#EXTINF:-1 group-title="COLOMBIA" ,TELECAFE
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78726
-#EXTINF:-1 ,CO: TELEANTIOQUIA HD
+#EXTINF:-1 group-title="COLOMBIA",TELEANTIOQUIA HD
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78706
-#EXTINF:-1 ,CO Telepacifico  (P)
+#EXTINF:-1 group-title="COLOMBIA",Telepacifico  (P)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78729
-#EXTINF:-1 ,CO: Win Sports + FHD
+#EXTINF:-1 group-title="SPORTS",Win Sports + FHD
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78717
-#EXTINF:-1 ,US FOX Sports 1
+#EXTINF:-1 group-title="SPORTS",FOX Sports 1 MX
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/46792
-#EXTINF:-1 ,US Bally Sports Florida (A)
+#EXTINF:-1 group-title="SPORTS",US Bally Sports Florida (A)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/46794
 #EXTINF:-1 ,Game Of Thrones
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/66318
-#EXTINF:-1 ,MX | CNN
+#EXTINF:-1 group-title="MEXICO",CNN
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57619
-#EXTINF:-1 ,MX | Discovery Channel
+#EXTINF:-1 group-title="LATINO",Discovery Channel
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57625
-#EXTINF:-1 ,MX  DISTRITO COMEDIA
+#EXTINF:-1 group-title="LATINO",DISTRITO COMEDIA
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57639
-#EXTINF:-1 ,US Latin Discovery (F)
+#EXTINF:-1 group-title="LATINO",US Latin Discovery (F)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57645
-#EXTINF:-1 ,MX: Multimedios
+#EXTINF:-1 group-title="MEXICO",Multimedios
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57646
-#EXTINF:-1 ,MX Multimedios HD
+#EXTINF:-1 group-title="MEXICO",Multimedios HD
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57711
-#EXTINF:-1 ,US EPIX2 (East)
+#EXTINF:-1 group-title="SPORTS",US EPIX2 (East)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/12730
-#EXTINF:-1 ,US ESPN 2
+#EXTINF:-1 group-title="SPORTS",US ESPN 2
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/2210
-#EXTINF:-1 ,US ESPN 1 (HD)
+#EXTINF:-1 group-title="SPORTS",US ESPN 1 (HD)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/14197
-#EXTINF:-1 ,US ESPN 1 (HD)
+#EXTINF:-1 group-title="SPORTS",US ESPN 1 (HD)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/9802
-#EXTINF:-1 ,US ESPNU College Sports
+#EXTINF:-1 group-title="SPORTS",US ESPNU College Sports
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/10255
-#EXTINF:-1 ,US Latin TUDN (A)
+#EXTINF:-1 group-title="SPORTS",US Latin TUDN (A)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/21644
-#EXTINF:-1 ,USA: NBA TV
+#EXTINF:-1 group-title="SPORTS",USA: NBA TV
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/20073
-#EXTINF:-1 ,US PAC12 Arizona (F)
+#EXTINF:-1 group-title="SPORTS",US PAC12 Arizona (F)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16490
-#EXTINF:-1 ,US PAC12 BayArea (F)
+#EXTINF:-1 group-title="SPORTS",US PAC12 BayArea (F)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16491
-#EXTINF:-1 ,US PAC12 LosAngeles (F)
+#EXTINF:-1 group-title="SPORTS",US PAC12 LosAngeles (F)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16492
-#EXTINF:-1 ,US PAC12 Network (F)
+#EXTINF:-1 group-title="SPORTS",US PAC12 Network (F)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16494
-#EXTINF:-1 ,US PAC12 Oregon (F)
+#EXTINF:-1 group-title="SPORTS",US PAC12 Oregon (F)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16532
-#EXTINF:-1 ,US TUDN (SP)
+#EXTINF:-1 group-title="SPORTS",US TUDN (SP)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/82241
-#EXTINF:-1 ,CO: ESPN COLOMBIA
+#EXTINF:-1 group-title="SPORTS",ESPN COLOMBIA
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/86765
-#EXTINF:-1 ,Carib ESPN2
+#EXTINF:-1 group-title="SPORTS",Carib ESPN2
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/99623
-#EXTINF:-1 ,Carib ESPN
+#EXTINF:-1 group-title="SPORTS",Carib ESPN
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/99624
-#EXTINF:-1 ,PE: PANAMERICANA HD
+#EXTINF:-1 group-title="PERU",PANAMERICANA HD
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110633
-#EXTINF:-1 ,PE: PERU MAGICO FHD
+#EXTINF:-1 group-title="PERU",PERU MAGICO FHD
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110634
-#EXTINF:-1 ,PE: PERU NOTICIAS
+#EXTINF:-1 group-title="PERU",PERU NOTICIAS
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110636
-#EXTINF:-1 ,PE: AMERICA TV
+#EXTINF:-1 group-title="PERU",AMERICA TV
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110637
-#EXTINF:-1 ,PE: ATV
+#EXTINF:-1 group-title="PERU",ATV
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110638
-#EXTINF:-1 ,PE: LATINA HD
+#EXTINF:-1 group-title="PERU",LATINA HD
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110640
-#EXTINF:-1 ,Star TV Sports
+#EXTINF:-1 group-title="SPORTS",Star TV Sports
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/53708
-#EXTINF:-1 ,ES002:13 TV
+#EXTINF:-1 group-title="ESPAÑA",13 TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2602
-#EXTINF:-1 ,ES003:24H
+#EXTINF:-1 group-title="ESPAÑA",24H
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2601
-#EXTINF:-1 ,ES004:7RM
+#EXTINF:-1 group-title="ESPAÑA",7RM
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2600
-#EXTINF:-1 ,ES005:A PUNT
+#EXTINF:-1 group-title="ESPAÑA",A PUNT
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2599
-#EXTINF:-1 ,ES006:A&E
+#EXTINF:-1 group-title="ESPAÑA",A&E
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2598
-#EXTINF:-1 ,ES007:A3SERIES
+#EXTINF:-1 group-title="ESPAÑA",A3SERIES
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2597
-#EXTINF:-1 ,ES008:ALCARRIA TV
+#EXTINF:-1 group-title="ESPAÑA",ALCARRIA TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2596
-#EXTINF:-1 ,ES012:ANDALUCIA TV
+#EXTINF:-1 group-title="ESPAÑA",ANDALUCIA TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2592
-#EXTINF:-1 ,ES013:ANTENA 3
+#EXTINF:-1 group-title="ESPAÑA",ANTENA 3
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2591
-#EXTINF:-1 ,ES014:ARAGÓN TV
+#EXTINF:-1 group-title="ESPAÑA",ARAGÓN TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2590
-#EXTINF:-1 ,ES018:BAILEN TV
+#EXTINF:-1 group-title="ESPAÑA",BAILEN TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2586
-#EXTINF:-1 ,ES019:BARCA TV
+#EXTINF:-1 group-title="ESPAÑA",BARCA TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2585
-#EXTINF:-1 ,ES020:BE MAD
+#EXTINF:-1 group-title="ESPAÑA",MADRID
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2584
-#EXTINF:-1 ,ES021:BETEVE
+#EXTINF:-1 group-title="ESPAÑA",BETEVE
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2583
-#EXTINF:-1 ,ES024:BOM CINE
+#EXTINF:-1 group-title="ESPAÑA",BOM CINE
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2580
-#EXTINF:-1 ,ES025:BON DIA TV
+#EXTINF:-1 group-title="ESPAÑA",BON DIA TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2579
-#EXTINF:-1 ,ES026:BREAK
+#EXTINF:-1 group-title="ESPAÑA",BREAK
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2578
-#EXTINF:-1 ,ES027:CALLE 13
+#EXTINF:-1 group-title="ESPAÑA",CALLE 13
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2577
-#EXTINF:-1 ,ES028:CANAL COCINA
+#EXTINF:-1 group-title="ESPAÑA",CANAL COCINA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2576
-#EXTINF:-1 ,ES029:CANAL COSTA TV
+#EXTINF:-1 group-title="ESPAÑA",CANAL COSTA TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2575
-#EXTINF:-1 ,ES030:CANAL DE CASA
+#EXTINF:-1 group-title="ESPAÑA",CANAL DE CASA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2574
-#EXTINF:-1 ,ES031:CANAL DE LAS ESTRELLAS
+#EXTINF:-1 group-title="ESPAÑA",CANAL DE LAS ESTRELLAS
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2573
-#EXTINF:-1 ,ES032:CANAL MÁLAGA
+#EXTINF:-1 group-title="ESPAÑA",CANAL MÁLAGA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2572
-#EXTINF:-1 ,ES034:CANAL SUR
+#EXTINF:-1 group-title="ESPAÑA",CANAL SUR
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2570
-#EXTINF:-1 ,ES035:CANAL SUR 2
+#EXTINF:-1 group-title="ESPAÑA",CANAL SUR 2
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2569
-#EXTINF:-1 ,ES036:CASTILLA LA MANCHA
+#EXTINF:-1 group-title="ESPAÑA",CASTILLA LA MANCHA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2568
-#EXTINF:-1 ,ES037:CAZA Y PESCA
+#EXTINF:-1 group-title="ESPAÑA",CAZA Y PESCA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2567
-#EXTINF:-1 ,ES041:COMEDY CENTRAL
+#EXTINF:-1 group-title="ESPAÑA",COMEDY CENTRAL
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2563
-#EXTINF:-1 ,ES042:COMEDY DYNAMICS
+#EXTINF:-1 group-title="ESPAÑA",CANAL DE LAS ESTRELLASCOMEDY DYNAMICS
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2562
 #EXTINF:-1 ,ES043:COSMO
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2561
@@ -4911,65 +4911,65 @@ http://152.89.62.76:8880/29ca01293n03/rw32er23/58690
 http://152.89.62.76:8880/29ca01293n03/rw32er23/58668
 #EXTINF:-1 ,LA170:TELECADENA (HN)
 http://152.89.62.76:8880/29ca01293n03/rw32er23/58650
-#EXTINF:-1 ,ARG001:A&E
+#EXTINF:-1 group-title="LATINO",A&E
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49751
-#EXTINF:-1 ,ARG002:AMC
+#EXTINF:-1 group-title="LATINO",AMC
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49750
-#EXTINF:-1 ,ARG003:AMERICA 24
+#EXTINF:-1 group-title="ARGENTINA",AMERICA 24
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49749
-#EXTINF:-1 ,ARG004:AMERICA TV
+#EXTINF:-1 group-title="ARGENTINA",AMERICA TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49748
-#EXTINF:-1 ,ARG005:AXN
+#EXTINF:-1 group-title="LATINO",AXN
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49747
-#EXTINF:-1 ,ARG007:BOOMERANG
+#EXTINF:-1 group-title="LATINO",BOOMERANG
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49745
-#EXTINF:-1 ,ARG009:CARTOON NETWORK
+#EXTINF:-1 group-title="LATINO",CARTOON NETWORK
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49743
-#EXTINF:-1 ,ARG011:CANAL 9 SALTA
+#EXTINF:-1 group-title="ARGENTINA",CANAL 9 SALTA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49741
-#EXTINF:-1 ,ARG012:CINEAR
+#EXTINF:-1 group-title="ARGENTINA",CINEAR
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49740
-#EXTINF:-1 ,ARG013:CINECANAL
+#EXTINF:-1 group-title="LATINO",CINECANAL
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49739
-#EXTINF:-1 ,ARG014:CINEMAX
+#EXTINF:-1 group-title="LATINO",CINEMAX
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49738
-#EXTINF:-1 ,ARG015:CIUDAD MAGAZINE
+#EXTINF:-1 group-title="LATINO",CIUDAD MAGAZINE
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49737
-#EXTINF:-1 ,ARG016:CNN
+#EXTINF:-1 group-title="LATINO",CNN
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49736
-#EXTINF:-1 ,ARG017:CNN EN ESPANIOL
+#EXTINF:-1 group-title="LATINO",CNN EN ESPANIOL
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49735
-#EXTINF:-1 ,ARG021:DIRECTV SPORTS
+#EXTINF:-1 group-title="SPORTS",DIRECTV SPORTS
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49731
-#EXTINF:-1 ,ARG034:ESPN PREMIUM
+#EXTINF:-1 group-title="SPORTS",ESPN PREMIUM
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49718
-#EXTINF:-1 ,ARG037:FILM & ARTS
+#EXTINF:-1 group-title="LATINO",FILM & ARTS
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49715
-#EXTINF:-1 ,ARG038:FOX SPORTS 1
+#EXTINF:-1 group-title="SPORTS",FOX SPORTS 1
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49714
-#EXTINF:-1 ,ARG039:FOX SPORTS 2
+#EXTINF:-1 group-title="SPORTS",FOX SPORTS 2
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49713
-#EXTINF:-1 ,ARG040:FOX SPORTS 3
+#EXTINF:-1 group-title="SPORTS",FOX SPORTS 3
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49712
-#EXTINF:-1 ,ARG041:FOX SPORTS PREMIUM
+#EXTINF:-1 group-title="SPOTS",FOX SPORTS PREMIUM
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49711
-#EXTINF:-1 ,ARG042:FX
+#EXTINF:-1 group-title="LATINO",FX
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49710
-#EXTINF:-1 ,ARG046:H2
+#EXTINF:-1 group-title="LATINO",H2
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49706
-#EXTINF:-1 ,ARG047:HBO
+#EXTINF:-1 group-title="LATINO",HBO
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49705
-#EXTINF:-1 ,ARG048:HBO 2
+#EXTINF:-1 group-title="LATINO",HBO 2
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49704
-#EXTINF:-1 ,ARG050:HBO Mundi
+#EXTINF:-1 group-title="LATINO",HBO Mundi
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49702
-#EXTINF:-1 ,ARG051:HBO SIGNATURE
+#EXTINF:-1 group-title="LATINO",HBO SIGNATURE
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49701
-#EXTINF:-1 ,ARG054:HTV
+#EXTINF:-1 group-title="LATINO",HTV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49698
-#EXTINF:-1 ,ARG056:MAS CHIC
+#EXTINF:-1 group-title="LATINO",MAS CHIC
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49696
-#EXTINF:-1 ,ARG057:MAX UP
+#EXTINF:-1 group-title="LATINO",MAX UP
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49695
-#EXTINF:-1 ,ARG066:PARAMOUNT
+#EXTINF:-1 group-title="LATINO",PARAMOUNT
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49686
