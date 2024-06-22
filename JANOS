@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="SPORTS",TUDN
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/82241
+#EXTINF:-1 group-title="SPORTS",ESPN
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/82241
 #EXTINF:-1 group-title="ARGENTINA",EL TRECE
 http://live.lordstreams.co:8080/68541544/56220369/1607
 #EXTINF:-1 group-title="LATINO",AMC
@@ -259,7 +263,7 @@ http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78717
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/46792
 #EXTINF:-1 group-title="SPORTS",US Bally Sports Florida (A)
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/46794
-#EXTINF:-1 ,Game Of Thrones
+#EXTINF:-1 group-title="SERIE",Game Of Thrones
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/66318
 #EXTINF:-1 group-title="MEXICO",CNN
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57619
@@ -377,545 +381,546 @@ http://152.89.62.76:8880/29ca01293n03/rw32er23/2567
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2563
 #EXTINF:-1 group-title="ESPAÑA",CANAL DE LAS ESTRELLASCOMEDY DYNAMICS
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2562
-#EXTINF:-1 ,ES043:COSMO
+#EXTINF:-1 group-title="ESPAÑA",COSMO
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2561
-#EXTINF:-1 ,ES045:CUATRO
+#EXTINF:-1 group-title="ESPAÑA",CUATRO
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2559
-#EXTINF:-1 ,ES060:DIVINITY
+#EXTINF:-1 group-title="ESPAÑA",DIVINITY
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2544
-#EXTINF:-1 ,ES061:DKISS
+#EXTINF:-1 group-title="ESPAÑA",DKISS
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2543
-#EXTINF:-1 ,ES063:DREAMWORKS
+#EXTINF:-1 group-title="ESPAÑA",DREAMWORKS
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2541
-#EXTINF:-1 ,ES064:EL TORO
+#EXTINF:-1 group-title="ESPAÑA",EL TORO
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2540
-#EXTINF:-1 ,ES065:ENERGY
+#EXTINF:-1 group-title="ESPAÑA",ENERGY
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2539
-#EXTINF:-1 ,ES072:EURONEWS
+#EXTINF:-1 group-title="ESPAÑA",EURONEWS
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29320
 #EXTINF:-1 ,ES075:EXTREMADURA TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29317
-#EXTINF:-1 ,ES076:FDF
+#EXTINF:-1 group-title="ESPAÑA",FDF
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29316
-#EXTINF:-1 ,ES077:FOX
+#EXTINF:-1 group-title="ESPAÑA",FOX
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29315
-#EXTINF:-1 ,ES078:FOX LIFE
+#EXTINF:-1 group-title="ESPAÑA",FOX LIFE
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29314
-#EXTINF:-1 ,ES079:GALICIA TV
+#EXTINF:-1 group-title="ESPAÑA",GALICIA TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29313
-#EXTINF:-1 ,ES088:IBERALIA TV
+#EXTINF:-1 group-title="ESPAÑA",IBERALIA TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29304
-#EXTINF:-1 ,ES089:LA 1
+#EXTINF:-1 group-title="ESPAÑA",LA 1
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29303
-#EXTINF:-1 ,ES090:LA 2
+#EXTINF:-1 group-title="ESPAÑA",LA 2
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29302
-#EXTINF:-1 ,ES091:LA RESISTENCIA
+#EXTINF:-1 group-title="ESPAÑA",LA RESISTENCIA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29301
-#EXTINF:-1 ,ES092:LA SEXTA
+#EXTINF:-1 group-title="ESPAÑA",LA SEXTA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29300
-#EXTINF:-1 ,ES093:LEVANTE TV
+#EXTINF:-1 group-title="ESPAÑA",LEVANTE TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29299
-#EXTINF:-1 ,#V
+#EXTINF:-1 group-title="ESPAÑA",#V
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29287
-#EXTINF:-1 ,ES106:M+ ESTRENOS
+#EXTINF:-1 group-title="ESPAÑA",M+ ESTRENOS
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29286
-#EXTINF:-1 ,ES140:MEGA
+#EXTINF:-1 group-title="ESPAÑA",MEGA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29252
-#EXTINF:-1 ,ES161:MOVISTAR XTRA
+MOVISTAR XTRA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29231
-#EXTINF:-1 ,ES168:NEGOCIOS TV
+#EXTINF:-1 group-title="ESPAÑA",NEGOCIOS TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29224
-#EXTINF:-1 ,ES190:NOVA
+#EXTINF:-1 group-title="ESPAÑA",NOVA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52417
-#EXTINF:-1 ,ES191:ORBE 21
+#EXTINF:-1 group-title="ESPAÑA",ORBE 21
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52416
-#EXTINF:-1 ,ES193:PTV GRANADA
+#EXTINF:-1 group-title="ESPAÑA",IPTV GRANADA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52414
-#EXTINF:-1 ,ES194:PTV MÁLAGA
+#EXTINF:-1 group-title="ESPAÑA",PTV MÁLAGA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52413
-#EXTINF:-1 ,ES195:PTV SEVILLA
+#EXTINF:-1 group-title="ESPAÑA",PTV SEVILLA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52412
-#EXTINF:-1 ,ES196:REAL MADRID TV
+#EXTINF:-1 group-title="ESPAÑA",REAL MADRID TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52411
-#EXTINF:-1 ,ES197:SEVILLA FC
+#EXTINF:-1 group-title="ESPAÑA",SEVILLA FC
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52410
-#EXTINF:-1 ,ES199:SOMOS
+#EXTINF:-1 group-title="ESPAÑA",SOMOS
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52408
-#EXTINF:-1 ,ES200:STAR TVE
+#EXTINF:-1 group-title="ESPAÑA",STAR TVE
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52407
-#EXTINF:-1 ,ES044:CRIME & INVESTIGATION
+#EXTINF:-1 group-title="ESPAÑA",CRIME & INVESTIGATION
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2560
-#EXTINF:-1 ,ES056:DISCOVERY CHANNEL
+#EXTINF:-1 group-title="ESPAÑA",DISCOVERY CHANNEL
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2548
-#EXTINF:-1 ,ES062:DMAX
+#EXTINF:-1 group-title="ESPAÑA",DMAX
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2542
-#EXTINF:-1 ,ES084:HISTORIA
+#EXTINF:-1 group-title="ESPAÑA",HISTORIA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29308
-#EXTINF:-1 ,ES166:NAT GEO
+#EXTINF:-1 group-title="ESPAÑA",NAT GEO
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29226
-#EXTINF:-1 ,ES167:NAT GEO WILD
+#EXTINF:-1 group-title="ESPAÑA",NAT GEO WILD
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29225
-#EXTINF:-1 ,ES017:BABY TV
+#EXTINF:-1 group-title="ESPAÑA",BABY TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2587
-#EXTINF:-1 ,ES039:CLAN
+#EXTINF:-1 group-title="ESPAÑA",CLAN
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2565
-#EXTINF:-1 ,ES057:DISNEY CHANNEL
+#EXTINF:-1 group-title="ESPAÑA",DISNEY CHANNEL
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2547
-#EXTINF:-1 ,ES186:NICK JR
+#EXTINF:-1 group-title="ESPAÑA",NICK JR
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52421
-#EXTINF:-1 ,ES187:NICKELODEON
+#EXTINF:-1 group-title="ESPAÑA",NICKELODEON
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52420
-#EXTINF:-1 ,ES040:CLASSICA
+#EXTINF:-1 group-title="ESPAÑA",CLASSICA
+#EXTINF:-1 group-title="ESPAÑA", RADIO
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2564
-#EXTINF:-1 ,ES141:MEZZO
+#EXTINF:-1 group-title="ESPAÑA",MEZZO
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29251
-#EXTINF:-1 ,ES142:MEZZO LIVE
+#EXTINF:-1 group-title="ESPAÑA",MEZZO LIVE
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29250
-#EXTINF:-1 ,ES162:MTV
+#EXTINF:-1 group-title="ESPAÑA",MTV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29230
-#EXTINF:-1 ,ES163:MTV 00s
+#EXTINF:-1 group-title="ESPAÑA",MTV 00s
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29229
-#EXTINF:-1 ,ES202:SUNDANCE TV
+#EXTINF:-1 group-title="ESPAÑA",SUNDANCE TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52405
-#EXTINF:-1 ,#0 HD
+#EXTINF:-1 group-title="ESPAÑA",#0 HD
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2603
-#EXTINF:-1 ,LA:American Pie 5
+#EXTINF:-1 group-title="PELIS",LA:American Pie 5
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34161.mp4
-#EXTINF:-1 ,LA:American Pie 6
+#EXTINF:-1 group-title="PELIS",LA:American Pie 6
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34162.mp4
-#EXTINF:-1 ,LA:American Pie 7
+#EXTINF:-1 group-title="PELIS",LA:American Pie 7
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34163.mp4
-#EXTINF:-1 ,LA:American Pie 8: El Reencuentro
+#EXTINF:-1 group-title="PELIS",LA:American Pie 8: El Reencuentro
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34164.mp4
-#EXTINF:-1 ,LA:American Ultra (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:American Ultra (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34166.mkv
-#EXTINF:-1 ,LA:Amigos Por Siempre (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Amigos Por Siempre (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34167.mkv
-#EXTINF:-1 ,LA:Amigos Por Siempre (HD)
+#EXTINF:-1 group-title="PELIS",LA:Amigos Por Siempre (HD)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34168.mkv
-#EXTINF:-1 ,LA:Amigos Salvajes
+#EXTINF:-1 group-title="PELIS",LA:Amigos Salvajes
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34171.mp4
-#EXTINF:-1 ,LA:Amigos Salvajes 2
+#EXTINF:-1 group-title="PELIS",LA:Amigos Salvajes 2
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34169.mp4
-#EXTINF:-1 ,LA:Amigos Salvajes 3
+#EXTINF:-1 group-title="PELIS",LA:Amigos Salvajes 3
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34170.mp4
-#EXTINF:-1 ,LA:Amor A Medianoche
+#EXTINF:-1 group-title="PELIS",LA:Amor A Medianoche
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34175.mp4
-#EXTINF:-1 ,LA:Amor A Primera Visa
+#EXTINF:-1 group-title="PELIS",LA:Amor A Primera Visa
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34176.mp4
-#EXTINF:-1 ,LA:Amor Ciego
+#EXTINF:-1 group-title="PELIS",LA:Amor Ciego
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34177.mp4
-#EXTINF:-1 ,LA:Amor En Juego
+#EXTINF:-1 group-title="PELIS",LA:Amor En Juego
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34178.mp4
-#EXTINF:-1 ,Celos Y Locura
+#EXTINF:-1 group-title="PELIS",Celos Y Locura
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34180.mkv
-#EXTINF:-1 ,LA:An Actor Prepares
+#EXTINF:-1 group-title="PELIS",LA:An Actor Prepares
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34182.mp4
-#EXTINF:-1 ,LA:Anastasia
+#EXTINF:-1 group-title="PELIS",LA:Anastasia
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34183.mp4
-#EXTINF:-1 ,LA:Ángeles Y Demonios
+#EXTINF:-1 group-title="PELIS",LA:Ángeles Y Demonios
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/37167.mkv
-#EXTINF:-1 ,LA:Angry Birds: La Película
+#EXTINF:-1 group-title="PELIS",LA:Angry Birds: La Película
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34184.mp4
-#EXTINF:-1 ,LA:Animal
+#EXTINF:-1 group-title="PELIS",LA:Animal
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34186.mp4
-#EXTINF:-1 ,LA:Animales Al Ataque
+#EXTINF:-1 group-title="PELIS",LA:Animales Al Ataque
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34187.mp4
-#EXTINF:-1 ,LA:Animales Fantásticos Y Dónde Encontrarlos
+#EXTINF:-1 group-title="PELIS",LA:Animales Fantásticos Y Dónde Encontrarlos
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34189.mp4
-#EXTINF:-1 ,LA:Animales Fantásticos: Los Crímenes De Grindelwald (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Animales Fantásticos: Los Crímenes De Grindelwald (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34191.mkv
-#EXTINF:-1 ,LA:Ánimas
+#EXTINF:-1 group-title="PELIS",LA:Ánimas
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/37168.mp4
-#EXTINF:-1 ,LA:Aniquilacion
+#EXTINF:-1 group-title="PELIS",LA:Aniquilacion
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34194.mp4
-#EXTINF:-1 ,LA:Annabelle (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Annabelle (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34195.mkv
-#EXTINF:-1 ,LA:Annabelle: La Creación (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Annabelle: La Creación (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34196.mkv
-#EXTINF:-1 ,LA:Anon
+#EXTINF:-1 group-title="PELIS",LA:Anon
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34197.mp4
-#EXTINF:-1 ,Bienvenido Al Hormiguero
+#EXTINF:-1 group-title="PELIS",Bienvenido Al Hormiguero
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34198.mp4
-#EXTINF:-1 ,LA:Ant-Man (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Ant-Man (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34200.mkv
-#EXTINF:-1 ,LA:Ant-Man Y La Avispa (4K)
+#EXTINF:-1 group-title="PELIS",LA:Ant-Man Y La Avispa (4K)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34201.mkv
-#EXTINF:-1 ,LA:Ant-Man Y La Avispa (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Ant-Man Y La Avispa (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34203.mkv
-#EXTINF:-1 ,LA:Antes Que El Diablo Sepa Que Has Muerto
+#EXTINF:-1 group-title="PELIS",LA:Antes Que El Diablo Sepa Que Has Muerto
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34208.mp4
-#EXTINF:-1 ,LA:Antz
+#EXTINF:-1 group-title="PELIS",LA:Antz
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34209.mkv
-#EXTINF:-1 ,LA:Apocalypto
+#EXTINF:-1 group-title="PELIS",LA:Apocalypto
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34210.mp4
-#EXTINF:-1 ,LA:Appaloosa (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Appaloosa (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34211.mkv
-#EXTINF:-1 ,LA:Apuesta Maestra
+#EXTINF:-1 group-title="PELIS",LA:Apuesta Maestra
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34212.mp4
-#EXTINF:-1 ,LA:Aquaman (4K)
+#EXTINF:-1 group-title="PELIS",LA:Aquaman (4K)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34214.mkv
-#EXTINF:-1 ,LA:Aquaman (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Aquaman (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34216.mkv
-#EXTINF:-1 ,LA:Archivo 253
+#EXTINF:-1 group-title="PELIS",LA:Archivo 253
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34218.mp4
-#EXTINF:-1 ,LA:Argo (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",,LA:Argo (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34219.mkv
-#EXTINF:-1 ,LA:Arizona (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Arizona (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34220.mkv
-#EXTINF:-1 ,LA:Arma Letal (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Arma Letal (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34221.mkv
-#EXTINF:-1 ,LA:Arma Letal 2 (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Arma Letal 2 (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34222.mkv
-#EXTINF:-1 ,LA:Arma Letal 3 (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Arma Letal 3 (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34223.mkv
-#EXTINF:-1 ,LA:Arma Letal 4
+#EXTINF:-1 group-title="PELIS",LA:Arma Letal 4
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34224.mp4
-#EXTINF:-1 ,LA:Armados Y Peligrosos
+#EXTINF:-1 group-title="PELIS",LA:Armados Y Peligrosos
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34225.mp4
-#EXTINF:-1 ,LA:Armageddon
+#EXTINF:-1 group-title="PELIS",LA:Armageddon
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34226.mp4
-#EXTINF:-1 ,LA:Arthur Christmas: Operación Regalo
+#EXTINF:-1 group-title="PELIS",LA:Arthur Christmas: Operación Regalo
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34228.mp4
-#EXTINF:-1 ,LA:Asalto Al Distrito 13
+#EXTINF:-1 group-title="PELIS",LA:Asalto Al Distrito 13
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34229.mp4
-#EXTINF:-1 ,LA:Asalto En La Noche
+#EXTINF:-1 group-title="PELIS",LA:Asalto En La Noche
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34230.mp4
-#EXTINF:-1 ,LA:Asesinato En El Expreso Oriente
+#EXTINF:-1 group-title="PELIS",LA:Asesinato En El Expreso Oriente
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34233.mp4
-#EXTINF:-1 ,LA:Asesino Implacable
+#EXTINF:-1 group-title="PELIS",LA:Asesino Implacable
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34234.mp4
-#EXTINF:-1 ,LA:Así Nos Va
+#EXTINF:-1 group-title="PELIS",LA:Así Nos Va
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34237.mp4
-#EXTINF:-1 ,LA:Assassin's Creed (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Assassin's Creed (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34236.mkv
-#EXTINF:-1 ,LA:At First Light
+#EXTINF:-1 group-title="PELIS",LA:At First Light
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34239.mp4
-#EXTINF:-1 ,LA:At First Light (HD)
+#EXTINF:-1 group-title="PELIS",LA:At First Light (HD)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34238.mkv
-#EXTINF:-1 ,LA:Ataque A Los Titanes
+#EXTINF:-1 group-title="PELIS",LA:Ataque A Los Titanes
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34240.mp4
-#EXTINF:-1 ,LA:Atlantis: El Imperio Perdido
+#EXTINF:-1 group-title="PELIS",LA:Atlantis: El Imperio Perdido
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34241.mp4
-#EXTINF:-1 ,LA:Atrapa La Bandera
+#EXTINF:-1 group-title="PELIS",LA:Atrapa La Bandera
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34246.mp4
-#EXTINF:-1 ,LA:Austin Powers 1
+##EXTINF:-1 group-title="PELIS",LA:Austin Powers 1
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34248.mp4
-#EXTINF:-1 ,LA:Austin Powers 2
+#EXTINF:-1 group-title="PELIS",LA:Austin Powers 2
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34249.mp4
-#EXTINF:-1 ,LA:Austin Powers 3
+#EXTINF:-1 group-title="PELIS",LA:Austin Powers 3
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34250.mp4
-#EXTINF:-1 ,LA:Avatar (4K)
+#EXTINF:-1 group-title="PELIS",LA:Avatar (4K)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34251.mkv
-#EXTINF:-1 ,LA:Avatar (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Avatar (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34252.mkv
-#EXTINF:-1 ,LA:Avenger: Endgame
+#EXTINF:-1 group-title="PELIS",LA:Avenger: Endgame
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34253.mkv
-#EXTINF:-1 ,LA:Aventuras En Alaska
+#EXTINF:-1 group-title="PELIS",LA:Aventuras En Alaska
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34255.mp4
-#EXTINF:-1 ,LA:Avicii: True Stories
+#EXTINF:-1 group-title="PELIS",LA:Avicii: True Stories
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34256.mp4
-#EXTINF:-1 ,LA:Aviones
+#EXTINF:-1 group-title="PELIS",LA:Aviones
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34257.mp4
-#EXTINF:-1 ,LA:Aviones: Equipo De Rescate
+#EXTINF:-1 group-title="PELIS",LA:Aviones: Equipo De Rescate
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34258.mp4
-#EXTINF:-1 ,LA:Bad Boys
+#EXTINF:-1 group-title="PELIS",,LA:Bad Boys
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34261.mp4
-#EXTINF:-1 ,LA:Bad Day For The Cut
+#EXTINF:-1 group-title="PELIS",LA:Bad Day For The Cut
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34262.mp4
-#EXTINF:-1 ,LA:Bad Santa 2
+#EXTINF:-1 group-title="PELIS",LA:Bad Santa 2
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34263.mp4
-#EXTINF:-1 ,LA:Bad Teacher
+#EXTINF:-1 group-title="PELIS",LA:Bad Teacher
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34264.mp4
-#EXTINF:-1 ,LA:Bajo Cero
+#EXTINF:-1 group-title="PELIS",LA:Bajo Cero
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34265.mp4
-#EXTINF:-1 ,LA:Bajo Cero: Milagron En La Montaña
+#EXTINF:-1 group-title="PELIS",LA:Bajo Cero: Milagron En La Montaña
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34266.mp4
-#EXTINF:-1 ,LA:Bajo El Mismo Techo
+#EXTINF:-1 group-title="PELIS",LA:Bajo El Mismo Techo
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34267.mp4
-#EXTINF:-1 ,LA:Bajo La Misma Estrella
+#EXTINF:-1 group-title="PELIS",LA:Bajo La Misma Estrella
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34268.mp4
-#EXTINF:-1 ,LA:Bajo La Piel (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Bajo La Piel (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34269.mkv
-#EXTINF:-1 ,LA:Bajos Instintos (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Bajos Instintos (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34270.mkv
-#EXTINF:-1 ,LA:Balto 2: Aventura En La Tierra De Hielo
+#EXTINF:-1 group-title="PELIS",LA:Balto 2: Aventura En La Tierra De Hielo
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34273.mp4
-#EXTINF:-1 ,LA:Balto 3: Rescate Del Avión Perdido
+#EXTINF:-1 group-title="PELIS",LA:Balto 3: Rescate Del Avión Perdido
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34274.mp4
-#EXTINF:-1 ,LA:Balto: La Leyenda Del Perro Esquimal
+#EXTINF:-1 group-title="PELIS",A:Balto: La Leyenda Del Perro Esquimal
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34275.mp4
-#EXTINF:-1 ,LA:Bambi
+#EXTINF:-1 group-title="PELIS",LA:Bambi
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34277.mp4
-#EXTINF:-1 ,LA:Bambi 2: El Príncipe Del Bosque
+#EXTINF:-1 group-title="PELIS",LA:Bambi 2: El Príncipe Del Bosque
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34276.mp4
-#EXTINF:-1 ,LA:Banda Los Recoditos: Auditorio Nacional
+#EXTINF:-1 group-title="PELIS",LA:Banda Los Recoditos: Auditorio Nacional
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34278.mp4
-#EXTINF:-1 ,LA:Barbie Y Sus Hermanas: Perritos En Busca Del Tesoro
+#EXTINF:-1 group-title="PELIS",LA:Barbie Y Sus Hermanas: Perritos En Busca Del Tesoro
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34279.mp4
-#EXTINF:-1 ,LA:Barbie: Aventura En El Espacio
+#EXTINF:-1 group-title="PELIS",LA:Barbie: Aventura En El Espacio
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34280.mp4
-#EXTINF:-1 ,LA:Barbie: Delfines Magicos
+#EXTINF:-1 group-title="PELIS",LA:Barbie: Delfines Magicos
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34281.mp4
-#EXTINF:-1 ,LA:Barbie: La Princesa De Las Perlas
+#EXTINF:-1 group-title="PELIS",LA:Barbie: La Princesa De Las Perlas
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34282.mp4
-#EXTINF:-1 ,LA:Barbie: Súper Princesa
+#EXTINF:-1 group-title="PELIS",LA:Barbie: Súper Princesa
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34284.mp4
-#EXTINF:-1 ,LA:Barbie: Superheroína Del Videojuego
+#EXTINF:-1 group-title="PELIS",LA:Barbie: Superheroína Del Videojuego
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34283.mp4
-#EXTINF:-1 ,LA:Barry Seal: El Traficante (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Barry Seal: El Traficante (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34286.mkv
-#EXTINF:-1 ,El Ratón Superdetective
+#EXTINF:-1 group-title="PELIS",El Ratón Superdetective
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34287.mp4
-#EXTINF:-1 ,LA:Bastardos Sin Gloria (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",A:Bastardos Sin Gloria (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34288.mkv
-#EXTINF:-1 ,LA:Batalla Los Angeles
+#EXTINF:-1 group-title="PELIS",LA:Batalla Los Angeles
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34289.mp4
-#EXTINF:-1 ,LA:Batman
+#EXTINF:-1 group-title="PELIS",LA:Batman
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34304.mp4
-#EXTINF:-1 ,LA:Batman Contra Drácula
+#EXTINF:-1 group-title="PELIS",LA:Batman Contra Drácula
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34291.mp4
-#EXTINF:-1 ,LA:Batman Del Futuro: El Regreso Del Joker
+#EXTINF:-1 group-title="PELIS",LA:Batman Del Futuro: El Regreso Del Joker
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34292.mp4
-#EXTINF:-1 ,LA:Batman Forever
+#EXTINF:-1 group-title="PELIS",LA:Batman Forever
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34293.mp4
-#EXTINF:-1 ,LA:Batman Inicia
+#EXTINF:-1 group-title="PELIS",LA:Batman Inicia
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34294.mp4
-#EXTINF:-1 ,LA:Batman Ninja
+#EXTINF:-1 group-title="PELIS",LA:Batman Ninja
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34295.mp4
-#EXTINF:-1 ,LA:Batman Regresa
+#EXTINF:-1 group-title="PELIS",LA:Batman Regresa
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34297.mp4
-#EXTINF:-1 ,LA:Batman VS Dos Caras
+#EXTINF:-1 group-title="PELIS",LA:Batman VS Dos Caras
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34300.mp4
-#EXTINF:-1 ,LA:Batman Vs Robin
+#EXTINF:-1 group-title="PELIS",LA:Batman Vs Robin
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34301.mp4
-#EXTINF:-1 ,LA:Batman Y Robin
+#EXTINF:-1 group-title="PELIS",LA:Batman Y Robin
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34302.mp4
-#EXTINF:-1 ,Ciudad Gótica: Luz De Gas (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",Ciudad Gótica: Luz De Gas (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34303.mkv
-#EXTINF:-1 ,LA:Batman: Año Uno
+#EXTINF:-1 group-title="PELIS",LA:Batman: Año Uno
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34305.mp4
-#EXTINF:-1 ,LA:Batman: El Misterio De Batwoman
+#EXTINF:-1 group-title="PELIS",LA:Batman: El Misterio De Batwoman
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34306.mp4
-#EXTINF:-1 ,LA:Batman: El Misterio De Capucha Roja
+#EXTINF:-1 group-title="PELIS",LA:Batman: El Misterio De Capucha Roja
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34307.mp4
-#EXTINF:-1 ,Parte 1
+#EXTINF:-1 group-title="PELIS",Parte 1
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34308.mp4
-#EXTINF:-1 ,Parte 2
+#EXTINF:-1 group-title="PELIS",Parte 2
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34309.mp4
-#EXTINF:-1 ,LA:Batman: Guardián De Gotham
+#EXTINF:-1 group-title="PELIS",LA:Batman: Guardián De Gotham
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34310.mp4
-#EXTINF:-1 ,LA:Battle
+#EXTINF:-1 group-title="PELIS",LA:Battle
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34313.mp4
-#EXTINF:-1 ,LA:Battleship
+#EXTINF:-1 group-title="PELIS",LA:Battleship
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34314.mp4
-#EXTINF:-1 ,LA:Bayoneta
+#EXTINF:-1 group-title="PELIS",LA:Bayoneta
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34315.mp4
-#EXTINF:-1 ,LA:Baywatch: Los Vigilantes De La Playa (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Baywatch: Los Vigilantes De La Playa (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34316.mkv
-#EXTINF:-1 ,LA:Beast
+#EXTINF:-1 group-title="PELIS",LA:Beast
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34317.mp4
-#EXTINF:-1 ,LA:Bee Movie
+#EXTINF:-1 group-title="PELIS",LA:Bee Movie
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34318.mp4
-#EXTINF:-1 ,LA:Beetlejuice
+#EXTINF:-1 group-title="PELIS",LA:Beetlejuice
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34319.mp4
-#EXTINF:-1 ,LA:Bella Y La Bestia
+#EXTINF:-1 group-title="PELIS",LA:Bella Y La Bestia
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34320.mkv
-#EXTINF:-1 ,LA:Ben 10: Carrera Contrarreloj
+#EXTINF:-1 group-title="PELIS",LA:Ben 10: Carrera Contrarreloj
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34323.mp4
-#EXTINF:-1 ,LA:Ben 10: La Destrucción De Los Aliens
+#EXTINF:-1 group-title="PELIS",LA:Ben 10: La Destrucción De Los Aliens
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34324.mp4
-#EXTINF:-1 ,LA:Ben-Hur (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Ben-Hur (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34325.mkv
-#EXTINF:-1 ,LA:Benji
+#EXTINF:-1 group-title="PELIS",LA:Benji
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34326.mp4
-#EXTINF:-1 ,LA:Beowulf
+#EXTINF:-1 group-title="PELIS",LA:Beowulf
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34327.mp4
-#EXTINF:-1 ,LA:Berlin Falling
+#EXTINF:-1 group-title="PELIS",LA:Berlin Falling
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34329.mp4
-#EXTINF:-1 ,LA:Berlin Falling (HD)
+#EXTINF:-1 group-title="PELIS",LA:Berlin Falling (HD)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34328.mkv
-#EXTINF:-1 ,LA:Bernardo Y Bianca
+#EXTINF:-1 group-title="PELIS",A:Bernardo Y Bianca
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34330.mp4
-#EXTINF:-1 ,LA:Bernie El Delfín
+#EXTINF:-1 group-title="PELIS",LA:Bernie El Delfín
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34331.mp4
-#EXTINF:-1 ,LA:Beyond The Call To Duty
+#EXTINF:-1 group-title="PELIS",A:Beyond The Call To Duty
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34332.mp4
-#EXTINF:-1 ,Una Aventura En Miniatura
+#EXTINF:-1 group-title="PELIS",Una Aventura En Miniatura
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34333.mp4
-#EXTINF:-1 ,LA:Bienvenidos A Marwen (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",A:Bienvenidos A Marwen (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34335.mkv
-#EXTINF:-1 ,LA:Bienvenidos Al Fin Del Mundo
+#EXTINF:-1 group-title="PELIS",LA:Bienvenidos Al Fin Del Mundo
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34336.mp4
-#EXTINF:-1 ,LA:Big Hero 6
+#EXTINF:-1 group-title="PELIS",LA:Big Hero 6
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34337.mp4
-#EXTINF:-1 ,LA:Biker Boyz
+#EXTINF:-1 group-title="PELIS",LA:Biker Boyz
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34338.mp4
-#EXTINF:-1 ,LA:Black Mirror: Bandersnatch
+#EXTINF:-1 group-title="PELIS",LA:Black Mirror: Bandersnatch
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34344.mp4
-#EXTINF:-1 ,LA:Black Mirror: Bandersnatch (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Black Mirror: Bandersnatch (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34342.mkv
-#EXTINF:-1 ,LA:Black Mirror: Bandersnatch (HD)
+#EXTINF:-1 group-title="PELIS",A:Black Mirror: Bandersnatch (HD)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34343.mkv
-#EXTINF:-1 ,LA:Blackmark
+#EXTINF:-1 group-title="PELIS",LA:Blackmark
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34346.mp4
-#EXTINF:-1 ,LA:Blackwood
+#EXTINF:-1 group-title="PELIS",LA:Blackwood
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34347.mp4
-#EXTINF:-1 ,LA:Blade Runner (4K)
+#EXTINF:-1 group-title="PELIS",LA:Blade Runner (4K)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34351.mkv
-#EXTINF:-1 ,LA:Blame
+#EXTINF:-1 group-title="PELIS",LA:Blame
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34353.mp4
-#EXTINF:-1 ,LA:Blanca Nieves Y Los Siete Enanitos
+#EXTINF:-1 group-title="PELIS",LA:Blanca Nieves Y Los Siete Enanitos
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34354.mp4
-#EXTINF:-1 ,LA:Blancanieves Y Los Siete Enanitos
+#EXTINF:-1 group-title="PELIS",LA:Blancanieves Y Los Siete Enanitos
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34356.mp4
-#EXTINF:-1 ,LA:Blaze And The Monster Machines
+#EXTINF:-1 group-title="PELIS",LA:Blaze And The Monster Machines
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34357.mp4
-#EXTINF:-1 ,El Koala
+#EXTINF:-1 group-title="PELIS",El Koala
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34359.mp4
-#EXTINF:-1 ,LA:Blow
+#EXTINF:-1 group-title="PELIS",LA:Blow
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34361.mp4
-#EXTINF:-1 ,LA:Boat Trip: Este Barco Es Un Peligro
+#EXTINF:-1 group-title="PELIS",LA:Boat Trip: Este Barco Es Un Peligro
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34362.mp4
-#EXTINF:-1 ,LA:Bob Esponja: La Película
+#EXTINF:-1 group-title="PELIS",LA:Bob Esponja: La Película
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34363.mp4
-#EXTINF:-1 ,LA:Bob Esponja: Un Héroe Fuera Del Agua
+#EXTINF:-1 group-title="PELIS",LA:Bob Esponja: Un Héroe Fuera Del Agua
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34364.mp4
-#EXTINF:-1 ,LA:Bohemian Rhapsody (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Bohemian Rhapsody (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34365.mkv
-#EXTINF:-1 ,LA:Bohemian Rhapsody (HD)
+#EXTINF:-1 group-title="PELIS",LA:Bohemian Rhapsody (HD)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34366.mkv
-#EXTINF:-1 ,LA:Bolt
+#EXTINF:-1 group-title="PELIS",LA:Bolt
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34368.mp4
-#EXTINF:-1 ,LA:Book Club
+#EXTINF:-1 group-title="PELIS",LA:Book Club
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34369.mp4
-#EXTINF:-1 ,LA:Boruto: Naruto La Película
+#EXTINF:-1 group-title="PELIS",LA:Boruto: Naruto La Película
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34370.mp4
-#EXTINF:-1 ,Más Peligroso (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",Más Peligroso (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34400.mkv
-#EXTINF:-1 ,LA:Braven
+#EXTINF:-1 group-title="PELIS",LA:Braven
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34372.mp4
-#EXTINF:-1 ,LA:Brawl In Cell Block 99
+#EXTINF:-1 group-title="PELIS",LA:Brawl In Cell Block 99
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34373.mp4
-#EXTINF:-1 ,LA:Bridget Jones: Sobreviviré
+#EXTINF:-1 group-title="PELIS",LA:Bridget Jones: Sobreviviré
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34375.mp4
-#EXTINF:-1 ,LA:Brigada 49
+#EXTINF:-1 group-title="PELIS",LA:Brigada 49
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34376.mp4
-#EXTINF:-1 ,LA:Bright
+#EXTINF:-1 group-title="PELIS",LA:Bright
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34377.mp4
-#EXTINF:-1 ,LA:Brimstone
+#EXTINF:-1 group-title="PELIS",LA:Brimstone
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34379.mkv
-#EXTINF:-1 ,LA:Brimstone  La Hija Del Predicador
+#EXTINF:-1 group-title="PELIS",LA:Brimstone  La Hija Del Predicador
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34378.mp4
-#EXTINF:-1 ,LA:Budapest (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Budapest (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34380.mkv
-#EXTINF:-1 ,LA:Buenos Vecinos
+#EXTINF:-1 group-title="PELIS",,LA:Buenos Vecinos
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34382.mp4
-#EXTINF:-1 ,LA:Buenos Vecinos 2
+#EXTINF:-1 group-title="PELIS",,LA:Buenos Vecinos 2
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34381.mp4
-#EXTINF:-1 ,LA:Bumblebee (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",,LA:Bumblebee (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34384.mkv
-#EXTINF:-1 ,LA:Bumblebee (HD)
+#EXTINF:-1 group-title="PELIS",LA:Bumblebee (HD)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34385.mkv
-#EXTINF:-1 ,LA:Burn Out
+#EXTINF:-1 group-title="PELIS",LA:Burn Out
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34388.mp4
-#EXTINF:-1 ,LA:Burn Out (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Burn Out (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34387.mkv
-#EXTINF:-1 ,LA:Buscando (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Buscando (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34389.mkv
-#EXTINF:-1 ,LA:Buscando (HD)
+#EXTINF:-1 group-title="PELIS",LA:Buscando (HD)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34390.mkv
-#EXTINF:-1 ,LA:Buscando A Dory
+#EXTINF:-1 group-title="PELIS",LA:Buscando A Dory
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34392.mp4
-#EXTINF:-1 ,LA:Buscando A Dory (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Buscando A Dory (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34391.mkv
-#EXTINF:-1 ,LA:Buscando A Nemo
+#EXTINF:-1 group-title="PELIS",LA:Buscando A Nemo
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34394.mp4
-#EXTINF:-1 ,LA:Buscando A Nemo (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Buscando A Nemo (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34393.mkv
-#EXTINF:-1 ,LA:Busco Novio Para Mi Mujer
+#EXTINF:-1 group-title="PELIS",LA:Busco Novio Para Mi Mujer
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34395.mp4
-#EXTINF:-1 ,LA:Bushwick
+#EXTINF:-1 group-title="PELIS",LA:Bushwick
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34396.mp4
-#EXTINF:-1 ,LA:Busqueda Implacable
+#EXTINF:-1 group-title="PELIS",LA:Busqueda Implacable
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34399.mp4
-#EXTINF:-1 ,LA:Busqueda Implacable 3
+#EXTINF:-1 group-title="PELIS",LA:Busqueda Implacable 3
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34398.mp4
-#EXTINF:-1 ,Princesas Y Otras Bestias (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",Princesas Y Otras Bestias (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34404.mkv
-#EXTINF:-1 ,LA:Cada Día
+#EXTINF:-1 group-title="PELIS",LA:Cada Día
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34406.mp4
-#EXTINF:-1 ,LA:Cadáver (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Cadáver (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34408.mkv
-#EXTINF:-1 ,LA:Cadáver (HD)
+#EXTINF:-1 group-title="PELIS",LA:Cadáver (HD)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34409.mkv
-#EXTINF:-1 ,LA:Calibre
+#EXTINF:-1 group-title="PELIS",LA:Calibre
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34411.mp4
-#EXTINF:-1 ,LA:Call Of Hero
+#EXTINF:-1 group-title="PELIS",LA:Call Of Hero
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34412.mp4
-#EXTINF:-1 ,LA:Calle Cloverfield 10
+#EXTINF:-1 group-title="PELIS",LA:Calle Cloverfield 10
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34413.mp4
-#EXTINF:-1 ,LA:Cam
+#EXTINF:-1 group-title="PELIS",LA:Cam
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34414.mp4
-#EXTINF:-1 ,LA:Cambio De Planes
+#EXTINF:-1 group-title="PELIS",LA:Cambio De Planes
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34415.mp4
-#EXTINF:-1 ,LA:Cambio De Princesa
+#EXTINF:-1 group-title="PELIS",LA:Cambio De Princesa
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34416.mp4
-#EXTINF:-1 ,LA:Cambio De Ruta
+#EXTINF:-1 group-title="PELIS",LA:Cambio De Ruta
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34417.mp4
-#EXTINF:-1 ,LA:Camera Obscura
+#EXTINF:-1 group-title="PELIS",LA:Camera Obscura
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34418.mp4
-#EXTINF:-1 ,LA:Caminando Entre Las Tumbas
+#EXTINF:-1 group-title="PELIS",LA:Caminando Entre Las Tumbas
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34420.mp4
-#EXTINF:-1 ,LA:Camino A Marte
+#EXTINF:-1 group-title="PELIS",LA:Camino A Marte
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34421.mp4
-#EXTINF:-1 ,LA:Camino Hacia El Dorado
+#EXTINF:-1 group-title="PELIS",LA:Camino Hacia El Dorado
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34422.mp4
-#EXTINF:-1 ,LA:Camino Hacia El Terror
+#EXTINF:-1 group-title="PELIS",LA:Camino Hacia El Terror
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34426.mp4
-#EXTINF:-1 ,LA:Camino Hacia El Terror 2
+#EXTINF:-1 group-title="PELIS",LA:Camino Hacia El Terror 2
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34423.mp4
-#EXTINF:-1 ,LA:Camino Hacia El Terror 4
+#EXTINF:-1 group-title="PELIS",LA:Camino Hacia El Terror 4
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34424.mp4
-#EXTINF:-1 ,LA:Camino Hacia El Terror 5
+#EXTINF:-1 group-title="PELIS",LA:Camino Hacia El Terror 5
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34425.mp4
-#EXTINF:-1 ,LA:Campanita Y El Tesoro Perdido
+#EXTINF:-1 group-title="PELIS",LA:Campanita Y El Tesoro Perdido
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34428.mp4
-#EXTINF:-1 ,LA:Campeones
+#EXTINF:-1 group-title="PELIS",LA:Campeones
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34429.mp4
-#EXTINF:-1 ,LA:Caperucita Roja (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Caperucita Roja (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34430.mkv
-#EXTINF:-1 ,LA:Capitan America Civil War
+#EXTINF:-1 group-title="PELIS",LA:Capitan America Civil War
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34431.mp4
-#EXTINF:-1 ,LA:Capitan America El Soldado De Invierno
+#EXTINF:-1 group-title="PELIS",LA:Capitan America El Soldado De Invierno
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34433.mp4
-#EXTINF:-1 ,LA:Capitán América: Civil War (4K)
+#EXTINF:-1 group-title="PELIS",LA:Capitán América: Civil War (4K)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34435.mkv
-#EXTINF:-1 ,LA:Capitán América: Civil War (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",,LA:Capitán América: Civil War (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34436.mkv
-#EXTINF:-1 ,LA:Capitán América: El Primer Vengador (4K)
+#EXTINF:-1 group-title="PELIS",LA:Capitán América: El Primer Vengador (4K)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34437.mkv
-#EXTINF:-1 ,LA:Capitán América: El Soldado De Invierno (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Capitán América: El Soldado De Invierno (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34438.mkv
-#EXTINF:-1 ,LA:Capitán Calzoncillos
+#EXTINF:-1 group-title="PELIS",LA:Capitán Calzoncillos
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34439.mp4
-#EXTINF:-1 ,LA:Capitán Phillips
+#EXTINF:-1 group-title="PELIS",LA:Capitán Phillips
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34440.mp4
-#EXTINF:-1 ,LA:Captive
+#EXTINF:-1 group-title="PELIS",LA:Captive
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34441.mp4
-#EXTINF:-1 ,LA:Cargo
+#EXTINF:-1 group-title="PELIS",LA:Cargo
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34444.mp4
-#EXTINF:-1 ,LA:Carlitos Y Snoopy: La Película De Peanuts
+#EXTINF:-1 group-title="PELIS",A:Carlitos Y Snoopy: La Película De Peanuts
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34445.mp4
-#EXTINF:-1 ,LA:Carrie
+#EXTINF:-1 group-title="PELIS",LA:Carrie
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34447.mp4
-#EXTINF:-1 ,LA:Cars
+#EXTINF:-1 group-title="PELIS",LA:Cars
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34453.mp4
-#EXTINF:-1 ,LA:Cars (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Cars (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34448.mkv
-#EXTINF:-1 ,LA:Cars 2
+#EXTINF:-1 group-title="PELIS",LA:Cars 2
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34450.mp4
-#EXTINF:-1 ,LA:Cars 2 (DUAL AUDIO)
+#EXTINF:-1 group-title="PELIS",LA:Cars 2 (DUAL AUDIO)
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34449.mkv
 #EXTINF:-1 ,LA:Cars 3
 http://152.89.62.76:8880/movie/29ca01293n03/rw32er23/34452.mp4
