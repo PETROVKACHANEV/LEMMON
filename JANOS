@@ -408,9 +408,9 @@ http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57646
 #EXTINF:-1 group-title="MEXICO",Multimedios HD
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57711
 #EXTINF:-1 group-title="PERU",PANAMERICANA HD
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110633
-#EXTINF:-1 group-title="PERU",PERU MAGICO FHD
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110634
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1 group-title="PERU",WILLAX
+https://live-c.cf.dmcdn.net/sec2(VtBVaJbAZ3PLGHQhqbPq9LBMCJPN2hKLqnI1QbJGTay0ck0khM--7Sr36xyuWALI0gZb-JycH6kliTtJUe1tAR1XEvjKFrYOii2Nga3QhDM)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 group-title="PERU",AMERICA TV
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110637
 #EXTINF:-1 group-title="PERU",ATV
