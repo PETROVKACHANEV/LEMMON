@@ -1,24 +1,56 @@
 #EXTM3U
-#EXTINF:-1 group-title="ARGENTINA",EL TRECE
-http://live.lordstreams.co:8080/68541544/56220369/1607
+
+#EXTINF:----------------------------------LATIN-----------------------------------
+#EXTINF:-1 group-title="LATINO",A&E
+http://181.205.77.118:4849/play/CH67
+#EXTINF:-1 group-title="LATINO",AMC
+http://181.205.77.118:4849/play/CH63
+#EXTINF:-1 group-title="LATINO",AXN
+http://181.205.77.118:4849/play/CH34
+#EXTINF:-1 group-title="LATINO",BOOMERANG
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49745
+#EXTINF:-1 group-title="LATINO",CARTOON NETWORK
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49743
+#EXTINF:-1 group-title="LATINO",CINECANAL
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49739
+#EXTINF:-1 group-title="LATINO",CINEMAX
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49738
+#EXTINF:-1 group-title="LATINO",CIUDAD MAGAZINE
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49737
+#EXTINF:-1 group-title="LATINO",CNN
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49736
+#EXTINF:-1 group-title="LATINO",CNN EN ESPANIOL
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49735
+#EXTINF:-1 group-title="LATINO",CHV
+http://181.205.77.118:4849/play/CH121
+#EXTINF:-1 group-title="LATINO",FX
+http://181.205.77.118:4849/play/CH38
+#EXTINF:-1 group-title="LATINO",H2
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49706
+#EXTINF:-1 group-title="LATINO",HBO
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49705
+#EXTINF:-1 group-title="LATINO",HBO 2
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49704
+#EXTINF:-1 group-title="LATINO",HBO Mundi
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49702
+#EXTINF:-1 group-title="LATINO",HBO SIGNATURE
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49701
+#EXTINF:-1 group-title="LATINO",HTV
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49698
+#EXTINF:-1 group-title="LATINO",MAS CHIC
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49696
+#EXTINF:-1 group-title="LATINO",MAX UP
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49695
+#EXTINF:-1 group-title="LATINO",PARAMOUNT
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49686
 #EXTINF:-1 group-title="LATINO",AMC
 http://live.lordstreams.co:8080/68541544/56220369/1613
 #EXTINF:-1 group-title="LATINO",ANIMAL PLANET
 http://live.lordstreams.co:8080/68541544/56220369/1614
-#EXTINF:-1 group-title="MEXICO",ONCE
-http://live.lordstreams.co:8080/68541544/56220369/1619
 #EXTINF:-1 group-title="LATINO",DPELICULA
 http://live.lordstreams.co:8080/68541544/56220369/1626
 #EXTINF:-1 group-title="LATINO",DISCOVERY TURBO
 http://live.lordstreams.co:8080/68541544/56220369/1631
-#EXTINF:-1 group-title="MEXICO",ESPN
-http://live.lordstreams.co:8080/68541544/56220369/1635
-#EXTINF:-1 group-title="SPORTS",FOX SPORTS MX
-http://live.lordstreams.co:8080/68541544/56220369/1649
-#EXTINF:-1 group-title="SPORTS",FOX SPORTS 3 MX
-http://live.lordstreams.co:8080/68541544/56220369/1650
-#EXTINF:-1 group-title="MEXICO",ADN 40
-http://live.lordstreams.co:8080/68541544/56220369/1660
 #EXTINF:-1 group-title="LATINO",TCM
 http://live.lordstreams.co:8080/68541544/56220369/1665
 #EXTINF:-1 group-title="LATINO",UNIVSION
@@ -27,48 +59,10 @@ http://live.lordstreams.co:8080/68541544/56220369/1666
 http://live.lordstreams.co:8080/68541544/56220369/1667
 #EXTINF:-1 group-title="LATINO",ENLACE
 http://live.lordstreams.co:8080/68541544/56220369/1678
-#EXTINF:-1 group-title="MEXICO",TELE RITMO
-http://live.lordstreams.co:8080/68541544/56220369/1686
-#EXTINF:-1 group-title="SPORTS",SPORT TV BR
-http://live.lordstreams.co:8080/68541544/56220369/757
-#EXTINF:-1 group-title="SPORTS",BAND SPORTS BR
-http://live.lordstreams.co:8080/68541544/56220369/794
-#EXTINF:-1 group-title="BRASIL",GLOBO
-http://live.lordstreams.co:8080/68541544/56220369/828
-#EXTINF:-1 group-title="BRASIL",SPORT TVX
-http://live.lordstreams.co:8080/68541544/56220369/839
-#EXTINF:-1 group-title="SPORTS",SPORT TV 4 PT
-http://live.lordstreams.co:8080/68541544/56220369/842
-#EXTINF:-1 group-title="SPORTS",SPORT TV 3 PT
-http://live.lordstreams.co:8080/68541544/56220369/844
-#EXTINF:-1 group-title="SPORTS",SPORT TV 2 PT
-http://live.lordstreams.co:8080/68541544/56220369/846
-#EXTINF:-1 group-title="SPORTS",SPORT TV 1 PT
-http://live.lordstreams.co:8080/68541544/56220369/848
-#EXTINF:-1 group-title="SPORTS",DAZN PT
-http://live.lordstreams.co:8080/68541544/56220369/915
-#EXTINF:-1 group-title="SPORTS",ELEVEN 4 PT
-http://live.lordstreams.co:8080/68541544/56220369/919
-#EXTINF:-1 group-title="SPORTS",TNT SPORTS US
-http://live.lordstreams.co:8080/68541544/56220369/2325
-#EXTINF:-1 group-title="SPORTS",TNT SPORTS 2 US
-http://live.lordstreams.co:8080/68541544/56220369/2326
-#EXTINF:-1 group-title="SPORTS",TNT SPORTS US
-http://live.lordstreams.co:8080/68541544/56220369/2337
-#EXTINF:-1 group-title="SPORTS",TUDN US
-http://live.lordstreams.co:8080/68541544/56220369/2578
-#EXTINF:-1 group-title="SPORTS",TYC SPORTS
-http://live.lordstreams.co:8080/68541544/56220369/2942
-#EXTINF:-1 group-title="MEXICO",PSX SPORTS
-http://live.lordstreams.co:8080/68541544/56220369/3980
 #EXTINF:-1 group-title="LATINO",ANIMAL PLANET
 http://live.lordstreams.co:8080/68541544/56220369/4170
-#EXTINF:-1 group-title="ESPAÑA",ANTENA 3
-http://live.lordstreams.co:8080/68541544/56220369/4171
 #EXTINF:-1 group-title="LATINO",AXN
 http://live.lordstreams.co:8080/68541544/56220369/4172
-#EXTINF:-1 group-title="MEXICO",AZTECA 7
-http://live.lordstreams.co:8080/68541544/56220369/4180
 #EXTINF:-1 group-title="LATINO",CARTOON NETWORK
 http://live.lordstreams.co:8080/68541544/56220369/4198
 #EXTINF:-1 group-title="LATINO",CINECANAL
@@ -93,16 +87,8 @@ http://live.lordstreams.co:8080/68541544/56220369/4217
 http://live.lordstreams.co:8080/68541544/56220369/4218
 #EXTINF:-1 group-title="LATINO",E
 http://live.lordstreams.co:8080/68541544/56220369/4219
-#EXTINF:-1 group-title="SPORTS",ESPN 2 MX
-http://live.lordstreams.co:8080/68541544/56220369/4221
-#EXTINF:-1 group-title="ESPAÑA",EUROPA
-http://live.lordstreams.co:8080/68541544/56220369/4226
 #EXTINF:-1 group-title="LATINO",FOOD NETWORK
 http://live.lordstreams.co:8080/68541544/56220369/4229
-#EXTINF:-1 group-title="SPORTS",FOX SPORTS 2 MX
-http://live.lordstreams.co:8080/68541544/56220369/4241
-#EXTINF:-1 group-title="SPORTS",FOX SPORS MX
-http://live.lordstreams.co:8080/68541544/56220369/4243
 #EXTINF:-1 group-title="LATINO",FRANCE 24
 http://live.lordstreams.co:8080/68541544/56220369/4244
 #EXTINF:-1 group-title="LATINO",FX
@@ -123,12 +109,6 @@ http://live.lordstreams.co:8080/68541544/56220369/4255
 http://live.lordstreams.co:8080/68541544/56220369/4258
 #EXTINF:-1 group-title="LATINO",MAS CHIC
 http://live.lordstreams.co:8080/68541544/56220369/4259
-#EXTINF:-1 group-title="SPORTS",GOLF
-http://live.lordstreams.co:8080/68541544/56220369/4269
-#EXTINF:-1 group-title="LATINO",NICKELODEON
-http://live.lordstreams.co:8080/68541544/56220369/4272
-#EXTINF:-1 group-title="COLOMBIA",RCN
-http://live.lordstreams.co:8080/68541544/56220369/4275
 #EXTINF:-1 group-title="LATINO",PARAMONT NETWORK
 http://live.lordstreams.co:8080/68541544/56220369/4276
 #EXTINF:-1 group-title="LATINO",SONY MOVIES
@@ -149,18 +129,12 @@ http://live.lordstreams.co:8080/68541544/56220369/4294
 http://live.lordstreams.co:8080/68541544/56220369/4295
 #EXTINF:-1 group-title="LATINO",ADULT SWIM
 http://live.lordstreams.co:8080/68541544/56220369/4302
-#EXTINF:-1 group-title="SPORTS",TYC SPORTS
-http://live.lordstreams.co:8080/68541544/56220369/4445
-#EXTINF:-1 group-title="SPORTS",TUDN XTRA
-http://live.lordstreams.co:8080/68541544/56220369/4448
 #EXTINF:-1 group-title="LATINO",UNIVISION
 http://live.lordstreams.co:8080/68541544/56220369/4452
 #EXTINF:-1 group-title="LATINO",UNIVISION
 http://live.lordstreams.co:8080/68541544/56220369/4454
 #EXTINF:-1 group-title="LATINO",UNIMAS
 http://live.lordstreams.co:8080/68541544/56220369/4481
-#EXTINF:-1 group-title="SPORTS",FOX DEPORTES MX
-http://live.lordstreams.co:8080/68541544/56220369/4548
 #EXTINF:-1 group-title="LATINO",HALLMARK
 http://live.lordstreams.co:8080/68541544/56220369/4606
 #EXTINF:-1 group-title="LATINO",CARACOL INTERNACIONAL
@@ -173,26 +147,76 @@ http://live.lordstreams.co:8080/68541544/56220369/4621
 http://live.lordstreams.co:8080/68541544/56220369/4638
 #EXTINF:-1 group-title="LATINO",HISTORY ESPAÑOL
 http://live.lordstreams.co:8080/68541544/56220369/4642
-#EXTINF:-1 group-title="ARGENTINA",TELEFE
-http://live.lordstreams.co:8080/68541544/56220369/40624
-#EXTINF:-1 group-title="LATINO",DISCOVERY ESPAÑOL
-http://live.lordstreams.co:8080/68541544/56220369/40625
-#EXTINF:-1 group-title="LATINO",UNIVISION
-http://live.lordstreams.co:8080/68541544/56220369/40630
-#EXTINF:-1 group-title="MEXICO",DPELICULA
-http://live.lordstreams.co:8080/68541544/56220369/40634
-#EXTINF:-1 group-title="ESPAÑA",ANTENA 7
-http://live.lordstreams.co:8080/68541544/56220369/40641
 #EXTINF:-1 group-title="LATINO",UNIMAS
 http://live.lordstreams.co:8080/68541544/56220369/40643
-#EXTINF:-1 group-title="SPORTS",FOX DEPORTES
-http://live.lordstreams.co:8080/68541544/56220369/40647
-#EXTINF:-1 group-title="SPORTS",ESPN LT
-http://live.lordstreams.co:8080/68541544/56220369/40648
+#EXTINF:-1 group-title="LATINO",UNIVISION
+http://live.lordstreams.co:8080/68541544/56220369/40630
 #EXTINF:-1 group-title="LATINO",UNIVISION
 http://live.lordstreams.co:8080/68541544/56220369/40649
 #EXTINF:-1 group-title="LATINO",WAPA TV
 http://live.lordstreams.co:8080/68541544/56220369/40651
+#EXTINF:-1 group-title="LATINO",DISCOVERY ESPAÑOL
+http://live.lordstreams.co:8080/68541544/56220369/40625
+#EXTINF:-1 group-title="LATINO",TELEMUNDO INT
+http://live.lordstreams.co:8080/68541544/56220369/50921
+#EXTINF:-1 group-title="LATINO",TELEMUNDO NOTICIAS
+http://live.lordstreams.co:8080/68541544/56220369/50931
+#EXTINF:-1 group-title="LATINO",UNIMAS
+http://live.lordstreams.co:8080/68541544/56220369/50932
+#EXTINF:-1 group-title="LATINO",MEGA TV
+http://live.lordstreams.co:8080/68541544/56220369/52195
+#EXTINF:-1 group-title="LATINO",Discovery Channel
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57625
+#EXTINF:-1 group-title="LATINO",DISTRITO COMEDIA
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57639
+#EXTINF:-1 group-title="LATINO",US Latin Discovery (F)
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57645
+
+#EXTINF:------------------------------PAISES--------------------------------------
+#EXTINF:-1 group-title="ARGENTINA",TELEFE
+http://live.lordstreams.co:8080/68541544/56220369/40624
+#EXTINF:-1 group-title="ARGENTINA",AMERICA 24
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49749
+#EXTINF:-1 group-title="ARGENTINA",AMERICA TV
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49748
+#EXTINF:-1 group-title="ARGENTINA",CANAL 9 SALTA
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49741
+#EXTINF:-1 group-title="ARGENTINA",CINEAR
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49740
+#EXTINF:-1 group-title="ARGENTINA",EL TRECE
+http://live.lordstreams.co:8080/68541544/56220369/1607
+#EXTINF:-1 group-title="BRASIL",GLOBO
+http://live.lordstreams.co:8080/68541544/56220369/828
+#EXTINF:-1 group-title="BRASIL",GLOBO HD
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/21020
+#EXTINF:-1 group-title="BRASIL",SBT HD
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/20978
+#EXTINF:-1 group-title="COLOMBIA",RCN
+http://live.lordstreams.co:8080/68541544/56220369/4275
+#EXTINF:-1 group-title="COLOMBIA",CARACOL INT
+http://live.lordstreams.co:8080/68541544/56220369/52162
+#EXTINF:-1 group-title="COLOMBIA",CANAL 7
+http://live.lordstreams.co:8080/68541544/56220369/52212
+#EXTINF:-1 group-title="COLOMBIA",INTERNACIONAL HD
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78701
+#EXTINF:-1 group-title="COLOMBIA",CARACOL HD
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78700
+#EXTINF:-1 group-title="COLOMBIA",RCN NOVELAS
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78716
+#EXTINF:-1 group-title="COLOMBIA" ,TELECAFE
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78726
+#EXTINF:-1 group-title="COLOMBIA",TELEANTIOQUIA HD
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78706
+#EXTINF:-1 group-title="COLOMBIA",Telepacifico  (P)
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78729
+#EXTINF:-1 group-title="CHILE",CHV
+http://200.24.158.115:9981/stream/channel/03bb427cf293439cff920f14d5e16402
+#EXTINF:-1 group-title="ESPAÑA",ANTENA 3
+http://live.lordstreams.co:8080/68541544/56220369/4171
+#EXTINF:-1 group-title="ESPAÑA",EUROPA
+http://live.lordstreams.co:8080/68541544/56220369/4226
+#EXTINF:-1 group-title="ESPAÑA",ANTENA 7
+http://live.lordstreams.co:8080/68541544/56220369/40641
 #EXTINF:-1 group-title="ESPAÑA",ANTENA 12
 http://live.lordstreams.co:8080/68541544/56220369/42306
 #EXTINF:-1 group-title="ESPAÑA",MOVIES
@@ -217,112 +241,6 @@ http://live.lordstreams.co:8080/68541544/56220369/50902
 http://live.lordstreams.co:8080/68541544/56220369/50904
 #EXTINF:-1 group-title="ESPAÑA",TDP
 http://live.lordstreams.co:8080/68541544/56220369/50905
-#EXTINF:-1 group-title="SPORTS",FUBO SPORTS
-http://live.lordstreams.co:8080/68541544/56220369/50908
-#EXTINF:-1 group-title="LATINO",TELEMUNDO INT
-http://live.lordstreams.co:8080/68541544/56220369/50921
-#EXTINF:-1 group-title="LATINO",TELEMUNDO NOTICIAS
-http://live.lordstreams.co:8080/68541544/56220369/50931
-#EXTINF:-1 group-title="LATINO",UNIMAS
-http://live.lordstreams.co:8080/68541544/56220369/50932
-#EXTINF:-1 group-title="SPORTS",SPORT TV +
-http://live.lordstreams.co:8080/68541544/56220369/51139
-#EXTINF:-1 group-title="COLOMBIA",CARACOL INT
-http://live.lordstreams.co:8080/68541544/56220369/52162
-#EXTINF:-1 group-title="LATINO",MEGA TV
-http://live.lordstreams.co:8080/68541544/56220369/52195
-#EXTINF:-1 group-title="COLOMBIA",CANAL 7
-http://live.lordstreams.co:8080/68541544/56220369/52212
-#EXTINF:-1 group-title="USA",WORLD DANCE
-http://live.lordstreams.co:8080/68541544/56220369/52566
-#EXTM3U
-#EXTINF:-1 group-title="SPORTS",TUDN
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/82241
-#EXTINF:-1 group-title="BRASIL",GLOBO HD
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/21020
-#EXTINF:-1 group-title="BRASIL",SBT HD
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/20978
-#EXTINF:-1 group-title="COLOMBIA",INTERNACIONAL HD
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78701
-#EXTINF:-1 group-title="COLOMBIA",CARACOL HD
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78700
-#EXTINF:-1 group-title="SPORTS",WIN SPORTS PLUS HD (EXCLUSIVO)
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78697
-#EXTINF:-1 group-title="COLOMBIA",RCN NOVELAS
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78716
-#EXTINF:-1 group-title="COLOMBIA" ,TELECAFE
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78726
-#EXTINF:-1 group-title="COLOMBIA",TELEANTIOQUIA HD
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78706
-#EXTINF:-1 group-title="COLOMBIA",Telepacifico  (P)
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78729
-#EXTINF:-1 group-title="SPORTS",Win Sports + FHD
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78717
-#EXTINF:-1 group-title="SPORTS",FOX Sports 1 MX
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/46792
-#EXTINF:-1 group-title="SPORTS",US Bally Sports Florida (A)
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/46794
-#EXTINF:-1 group-title="SERIE",Game Of Thrones
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/66318
-#EXTINF:-1 group-title="MEXICO",CNN
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57619
-#EXTINF:-1 group-title="LATINO",Discovery Channel
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57625
-#EXTINF:-1 group-title="LATINO",DISTRITO COMEDIA
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57639
-#EXTINF:-1 group-title="LATINO",US Latin Discovery (F)
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57645
-#EXTINF:-1 group-title="MEXICO",Multimedios
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57646
-#EXTINF:-1 group-title="MEXICO",Multimedios HD
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57711
-#EXTINF:-1 group-title="SPORTS",US EPIX2 (East)
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/12730
-#EXTINF:-1 group-title="SPORTS",US ESPN 2
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/2210
-#EXTINF:-1 group-title="SPORTS",US ESPN 1 (HD)
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/14197
-#EXTINF:-1 group-title="SPORTS",US ESPN 1 (HD)
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/9802
-#EXTINF:-1 group-title="SPORTS",US ESPNU College Sports
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/10255
-#EXTINF:-1 group-title="SPORTS",US Latin TUDN (A)
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/21644
-#EXTINF:-1 group-title="SPORTS",USA: NBA TV
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/20073
-#EXTINF:-1 group-title="SPORTS",US PAC12 Arizona (F)
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16490
-#EXTINF:-1 group-title="SPORTS",US PAC12 BayArea (F)
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16491
-#EXTINF:-1 group-title="SPORTS",US PAC12 LosAngeles (F)
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16492
-#EXTINF:-1 group-title="SPORTS",US PAC12 Network (F)
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16494
-#EXTINF:-1 group-title="SPORTS",US PAC12 Oregon (F)
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16532
-#EXTINF:-1 group-title="SPORTS",US TUDN (SP)
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/82241
-#EXTINF:-1 group-title="SPORTS",ESPN COLOMBIA
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/86765
-#EXTINF:-1 group-title="SPORTS",Carib ESPN2
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/99623
-#EXTINF:-1 group-title="SPORTS",Carib ESPN
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/99624
-#EXTINF:-1 group-title="PERU",PANAMERICANA HD
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110633
-#EXTINF:-1 group-title="PERU",PERU MAGICO FHD
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110634
-#EXTINF:-1 group-title="PERU",PERU NOTICIAS
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110636
-#EXTINF:-1 group-title="PERU",AMERICA TV
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110637
-#EXTINF:-1 group-title="PERU",ATV
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110638
-#EXTINF:-1 group-title="PERU",LATINA HD
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110640
-#EXTINF:-1 group-title="SPORTS",Star TV Sports
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/53708
-#EXTM3U
 #EXTINF:-1 group-title="ESPAÑA",13 TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2602
 #EXTINF:-1 group-title="ESPAÑA",24H
@@ -345,8 +263,6 @@ http://152.89.62.76:8880/29ca01293n03/rw32er23/2591
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2590
 #EXTINF:-1 group-title="ESPAÑA",BAILEN TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2586
-#EXTINF:-1 group-title="ESPAÑA",BARCA TV
-http://152.89.62.76:8880/29ca01293n03/rw32er23/2585
 #EXTINF:-1 group-title="ESPAÑA",MADRID
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2584
 #EXTINF:-1 group-title="ESPAÑA",BETEVE
@@ -365,8 +281,6 @@ http://152.89.62.76:8880/29ca01293n03/rw32er23/2576
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2575
 #EXTINF:-1 group-title="ESPAÑA",CANAL DE CASA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2574
-#EXTINF:-1 group-title="ESPAÑA",CANAL DE LAS ESTRELLAS
-http://152.89.62.76:8880/29ca01293n03/rw32er23/2573
 #EXTINF:-1 group-title="ESPAÑA",CANAL MÁLAGA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2572
 #EXTINF:-1 group-title="ESPAÑA",CANAL SUR
@@ -379,8 +293,6 @@ http://152.89.62.76:8880/29ca01293n03/rw32er23/2568
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2567
 #EXTINF:-1 group-title="ESPAÑA",COMEDY CENTRAL
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2563
-#EXTINF:-1 group-title="ESPAÑA",CANAL DE LAS ESTRELLASCOMEDY DYNAMICS
-http://152.89.62.76:8880/29ca01293n03/rw32er23/2562
 #EXTINF:-1 group-title="ESPAÑA",COSMO
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2561
 #EXTINF:-1 group-title="ESPAÑA",CUATRO
@@ -425,7 +337,7 @@ http://152.89.62.76:8880/29ca01293n03/rw32er23/29287
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29286
 #EXTINF:-1 group-title="ESPAÑA",MEGA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29252
-MOVISTAR XTRA
+#EXTINF:-1 group-title="ESPAÑA",MOVISTAR XTRA
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29231
 #EXTINF:-1 group-title="ESPAÑA",NEGOCIOS TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/29224
@@ -441,8 +353,6 @@ http://152.89.62.76:8880/29ca01293n03/rw32er23/52413
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52412
 #EXTINF:-1 group-title="ESPAÑA",REAL MADRID TV
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52411
-#EXTINF:-1 group-title="ESPAÑA",SEVILLA FC
-http://152.89.62.76:8880/29ca01293n03/rw32er23/52410
 #EXTINF:-1 group-title="ESPAÑA",SOMOS
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52408
 #EXTINF:-1 group-title="ESPAÑA",STAR TVE
@@ -467,9 +377,6 @@ http://152.89.62.76:8880/29ca01293n03/rw32er23/2565
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2547
 #EXTINF:-1 group-title="ESPAÑA",NICK JR
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52421
-#EXTINF:-1 group-title="ESPAÑA",NICKELODEON
-http://152.89.62.76:8880/29ca01293n03/rw32er23/52420
-#EXTINF:-1 group-title="ESPAÑA",CLASSICA
 #EXTINF:-1 group-title="ESPAÑA", RADIO
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2564
 #EXTINF:-1 group-title="ESPAÑA",MEZZO
@@ -484,52 +391,70 @@ http://152.89.62.76:8880/29ca01293n03/rw32er23/29229
 http://152.89.62.76:8880/29ca01293n03/rw32er23/52405
 #EXTINF:-1 group-title="ESPAÑA",#0 HD
 http://152.89.62.76:8880/29ca01293n03/rw32er23/2603
+#EXTINF:-1 group-title="MEXICO",ONCE
+http://live.lordstreams.co:8080/68541544/56220369/1619
+#EXTINF:-1 group-title="MEXICO",ADN 40
+http://live.lordstreams.co:8080/68541544/56220369/1660
+#EXTINF:-1 group-title="MEXICO",TELE RITMO
+http://live.lordstreams.co:8080/68541544/56220369/1686
+#EXTINF:-1 group-title="MEXICO",DPELICULA
+http://live.lordstreams.co:8080/68541544/56220369/40634
+#EXTINF:-1 group-title="MEXICO",AZTECA 7
+http://live.lordstreams.co:8080/68541544/56220369/4180
+#EXTINF:-1 group-title="MEXICO",CNN
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57619
+#EXTINF:-1 group-title="MEXICO",Multimedios
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57646
+#EXTINF:-1 group-title="MEXICO",Multimedios HD
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/57711
+#EXTINF:-1 group-title="PERU",PANAMERICANA HD
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110633
+#EXTINF:-1 group-title="PERU",PERU MAGICO FHD
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110634
+#EXTINF:-1 group-title="PERU",AMERICA TV
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110637
+#EXTINF:-1 group-title="PERU",ATV
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/110638
+#EXTINF:-1 group-title="PERU",LATINA HD
+https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream/chunks.m3u8
+#EXTINF:-1 group-title="USA",WORLD DANCE
+http://live.lordstreams.co:8080/68541544/56220369/52566
 
-
-#EXTINF:-1 ,LA166:CAMPUS TV (HN)
-http://152.89.62.76:8880/29ca01293n03/rw32er23/58701
-#EXTINF:-1 ,LA167:CANAL 10 (HN)
-http://152.89.62.76:8880/29ca01293n03/rw32er23/58695
-#EXTINF:-1 ,LA168:CANAL 5 (HN)
-http://152.89.62.76:8880/29ca01293n03/rw32er23/58690
-#EXTINF:-1 ,LA169:CANAL 6 (HN)
-http://152.89.62.76:8880/29ca01293n03/rw32er23/58668
-#EXTINF:-1 ,LA170:TELECADENA (HN)
-http://152.89.62.76:8880/29ca01293n03/rw32er23/58650
-#EXTINF:-1 group-title="LATINO",A&E
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49751
-#EXTINF:-1 group-title="LATINO",AMC
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49750
-#EXTINF:-1 group-title="ARGENTINA",AMERICA 24
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49749
-#EXTINF:-1 group-title="ARGENTINA",AMERICA TV
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49748
-#EXTINF:-1 group-title="LATINO",AXN
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49747
-#EXTINF:-1 group-title="LATINO",BOOMERANG
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49745
-#EXTINF:-1 group-title="LATINO",CARTOON NETWORK
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49743
-#EXTINF:-1 group-title="ARGENTINA",CANAL 9 SALTA
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49741
-#EXTINF:-1 group-title="ARGENTINA",CINEAR
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49740
-#EXTINF:-1 group-title="LATINO",CINECANAL
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49739
-#EXTINF:-1 group-title="LATINO",CINEMAX
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49738
-#EXTINF:-1 group-title="LATINO",CIUDAD MAGAZINE
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49737
-#EXTINF:-1 group-title="LATINO",CNN
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49736
-#EXTINF:-1 group-title="LATINO",CNN EN ESPANIOL
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49735
+#EXTINF:------------------------DEPORTES-----------------------------------
 #EXTINF:-1 group-title="SPORTS",DIRECTV SPORTS
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49731
+#EXTINF:-1 group-title="SPORTS",ESPN 1 
+http://181.78.78.219:8010/play/a001/index.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN 2
+http://181.78.78.219:8010/play/a002/index.m3u8
+#EXTINF:-1 group-title="SPORTS", ESPN 3
+http://181.78.78.219:8010/play/a003/index.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN 4
+http://181.78.78.219:8010/play/a004/index.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN PREMIUM
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49718
-#EXTINF:-1 group-title="LATINO",FILM & ARTS
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49715
+#EXTINF:-1 group-title="SPORTS",ESPN LT
+http://live.lordstreams.co:8080/68541544/56220369/40648
+#EXTINF:-1 group-title="SPORTS",ESPN COL
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/86765
+#EXTINF:-1 group-title="SPORTS",ESPN MX
+http://live.lordstreams.co:8080/68541544/56220369/1635
+#EXTINF:-1 group-title="SPORTS",ESPN 2 MX
+http://live.lordstreams.co:8080/68541544/56220369/4221
+#EXTINF:-1 group-title="SPORTS",ESPN 1 US (HD)
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/14197
+#EXTINF:-1 group-title="SPORTS",ESPN 1 US (HD)
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/9802
+#EXTINF:-1 group-title="SPORTS",ESPN 2 US
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/2210
+#EXTINF:-1 group-title="SPORTS",ESPN US College Sports
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/10255
+#EXTINF:-1 group-title="SPORTS",ESPN2 CARIBE
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/99623
+#EXTINF:-1 group-title="SPORTS",ESPN CARIBE
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/99624
+#EXTINF:-1 group-title="SPORTS",FOX DEPORTES
+http://live.lordstreams.co:8080/68541544/56220369/40647
 #EXTINF:-1 group-title="SPORTS",FOX SPORTS 1
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49714
 #EXTINF:-1 group-title="SPORTS",FOX SPORTS 2
@@ -538,23 +463,81 @@ http://152.89.62.76:8880/29ca01293n03/rw32er23/49713
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49712
 #EXTINF:-1 group-title="SPORTS",FOX SPORTS PREMIUM
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49711
-#EXTINF:-1 group-title="LATINO",FX
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49710
-#EXTINF:-1 group-title="LATINO",H2
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49706
-#EXTINF:-1 group-title="LATINO",HBO
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49705
-#EXTINF:-1 group-title="LATINO",HBO 2
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49704
-#EXTINF:-1 group-title="LATINO",HBO Mundi
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49702
-#EXTINF:-1 group-title="LATINO",HBO SIGNATURE
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49701
-#EXTINF:-1 group-title="LATINO",HTV
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49698
-#EXTINF:-1 group-title="LATINO",MAS CHIC
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49696
-#EXTINF:-1 group-title="LATINO",MAX UP
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49695
-#EXTINF:-1 group-title="LATINO",PARAMOUNT
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49686
+#EXTINF:-1 group-title="SPORTS",FOX SPORTS 1 MX
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/46792
+#EXTINF:-1 group-title="SPORTS",FOX DEPORTES MX
+http://live.lordstreams.co:8080/68541544/56220369/4548
+#EXTINF:-1 group-title="SPORTS",FOX SPORTS MX
+http://live.lordstreams.co:8080/68541544/56220369/1649
+#EXTINF:-1 group-title="SPORTS",FOX SPORTS MX
+http://live.lordstreams.co:8080/68541544/56220369/4243
+#EXTINF:-1 group-title="SPORTS",FOX SPORTS 2 MX
+http://live.lordstreams.co:8080/68541544/56220369/4241
+#EXTINF:-1 group-title="SPORTS",FOX SPORTS 3 MX
+http://live.lordstreams.co:8080/68541544/56220369/1650
+#EXTINF:-1 group-title="SPORTS",TYC SPORTS A
+http://live.lordstreams.co:8080/68541544/56220369/4445
+#EXTINF:-1 group-title="SPORTS",TYC SPORTS AA
+http://live.lordstreams.co:8080/68541544/56220369/2942
+#EXTINF:-1 group-title="SPORTS",SPORT TV 1 PT
+http://live.lordstreams.co:8080/68541544/56220369/848
+#EXTINF:-1 group-title="SPORTS",SPORT TV 2 PT
+http://live.lordstreams.co:8080/68541544/56220369/846
+#EXTINF:-1 group-title="SPORTS",SPORT TV 3 PT
+http://live.lordstreams.co:8080/68541544/56220369/844
+#EXTINF:-1 group-title="SPORTS",SPORT TV 4 PT
+http://live.lordstreams.co:8080/68541544/56220369/842
+#EXTINF:-1 group-title="SPORTS",SPORT TV +
+http://live.lordstreams.co:8080/68541544/56220369/51139
+#EXTINF:-1 group-title="SPORTS",SPORT TV BR
+http://live.lordstreams.co:8080/68541544/56220369/757
+#EXTINF:-1 group-title="SPORTS",SPORT TVX BR
+http://live.lordstreams.co:8080/68541544/56220369/839
+#EXTINF:-1 group-title="SPORTS",BAND SPORTS BR
+http://live.lordstreams.co:8080/68541544/56220369/794
+#EXTINF:-1 group-title="SPORTS",TUDN-ESPN US
+http://live.lordstreams.co:8080/68541544/56220369/2578
+#EXTINF:-1 group-title="SPORTS",TUDN LATIN US
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/21644
+#EXTINF:-1 group-title="SPORTS",TNT PREMIUM HD
+http://200.24.158.115:9981/stream/channel/cd239b38541a2885a7dbe5bdc4b5e617
+#EXTINF:-1 group-title="SPORTS",TNT PREMIUM HD 2
+http://200.24.158.115:9981/stream/channel/bf03aac7b66dd2e17dd4bc4c893552b3
+#EXTINF:-1 group-title="SPORTS",DAZN PT
+http://live.lordstreams.co:8080/68541544/56220369/915
+#EXTINF:-1 group-title="SPORTS",ELEVEN 4 PT
+http://live.lordstreams.co:8080/68541544/56220369/919
+#EXTINF:-1 group-title="SPORTS",TNT SPORTS US
+http://live.lordstreams.co:8080/68541544/56220369/2325
+#EXTINF:-1 group-title="SPORTS",TNT SPORTS 2 US
+http://live.lordstreams.co:8080/68541544/56220369/2326
+#EXTINF:-1 group-title="SPORTS",TNT SPORTS US
+http://live.lordstreams.co:8080/68541544/56220369/2337
+#EXTINF:-1 group-title="SPORTS",USA: NBA TV
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/20073
+#EXTINF:-1 group-title="SPORTS",US PAC12 Arizona (F)
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16490
+#EXTINF:-1 group-title="SPORTS",US PAC12 BayArea (F)
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16491
+#EXTINF:-1 group-title="SPORTS",US PAC12 LosAngeles (F)
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16492
+#EXTINF:-1 group-title="SPORTS",US PAC12 Network (F)
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16494
+#EXTINF:-1 group-title="SPORTS",US PAC12 Oregon (F)
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/16532
+#EXTINF:-1 group-title="SPORTS",US Bally Sports Florida (A)
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/46794
+#EXTINF:-1 group-title="SPORTS",FUBO SPORTS
+http://live.lordstreams.co:8080/68541544/56220369/50908
+#EXTINF:-1 group-title="SPORTS",PSX SPORTS MX
+http://live.lordstreams.co:8080/68541544/56220369/3980
+#EXTINF:-1 group-title="SPORTS",Star TV Sports
+#EXTINF:-1 group-title="SPORTS",EL CANAL DEL FUTBOL
+http://200.24.158.115:9981/stream/channel/6d44d016c04f95f5b9d14852aad5c274
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/53708
+#EXTINF:-1 group-title="SPORTS",WIN SPORTS PLUS HD (EXCLUSIVO)
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78697
+#EXTINF:-1 group-title="SPORTS",Win Sports + FHD
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78717
+
+
