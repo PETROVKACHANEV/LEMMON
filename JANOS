@@ -5,24 +5,16 @@
 http://190.119.123.220:4000/play/a004/index.m3u8
 #EXTINF:-1 group-title="LATINO",AMC
 http://181.205.77.118:4849/play/CH63
-#EXTINF:-1 group-title="LATINO",AXN
-http://181.205.77.118:4849/play/CH34
-#EXTINF:-1 group-title="LATINO",BOOMERANG
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49745
-#EXTINF:-1 group-title="LATINO",CARTOON NETWORK
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49743
-#EXTINF:-1 group-title="LATINO",CINECANAL
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49739
 #EXTINF:-1 group-title="LATINO",CINEMAX
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49738
+#EXTINF:-1 group-title="LATINO",CINECANAL
+http://8.242.172.250:45000/play/a01s
 #EXTINF:-1 group-title="LATINO",CIUDAD MAGAZINE
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49737
 #EXTINF:-1 group-title="LATINO",CNN
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49736
 #EXTINF:-1 group-title="LATINO",CNN EN ESPANIOL
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49735
-#EXTINF:-1 group-title="LATINO",CHV
-http://181.205.77.118:4849/play/CH121
 #EXTINF:-1 group-title="LATINO",FX
 http://181.205.77.118:4849/play/CH38
 #EXTINF:-1 group-title="LATINO",H2
@@ -35,18 +27,14 @@ http://152.89.62.76:8880/29ca01293n03/rw32er23/49704
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49702
 #EXTINF:-1 group-title="LATINO",HBO SIGNATURE
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49701
-#EXTINF:-1 group-title="LATINO",HTV
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49698
+#EXTINF:-1 group-title="LATINO",HGTV
+http://8.242.172.250:45000/play/a08m
 #EXTINF:-1 group-title="LATINO",MAS CHIC
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49696
-#EXTINF:-1 group-title="LATINO",MAX UP
-http://152.89.62.76:8880/29ca01293n03/rw32er23/49695
 #EXTINF:-1 group-title="LATINO",PARAMOUNT
 http://152.89.62.76:8880/29ca01293n03/rw32er23/49686
 #EXTINF:-1 group-title="LATINO",AMC
 http://live.lordstreams.co:8080/68541544/56220369/1613
-#EXTINF:-1 group-title="LATINO",ANIMAL PLANET
-http://live.lordstreams.co:8080/68541544/56220369/1614
 #EXTINF:-1 group-title="LATINO",DPELICULA
 http://live.lordstreams.co:8080/68541544/56220369/1626
 #EXTINF:-1 group-title="LATINO",DISCOVERY TURBO
@@ -69,6 +57,8 @@ http://live.lordstreams.co:8080/68541544/56220369/4198
 http://live.lordstreams.co:8080/68541544/56220369/4199
 #EXTINF:-1 group-title="LATINO",CINEMAX
 http://live.lordstreams.co:8080/68541544/56220369/4200
+#EXTINF:-1 group-title="LATINO",NAT GEO
+http://8.242.172.250:45000/play/a01q
 #EXTINF:-1 group-title="LATINO",DISCOVERY
 http://live.lordstreams.co:8080/68541544/56220369/4206
 #EXTINF:-1 group-title="LATINO",HOME&HEALTH
@@ -85,6 +75,8 @@ http://live.lordstreams.co:8080/68541544/56220369/4214
 http://live.lordstreams.co:8080/68541544/56220369/4217
 #EXTINF:-1 group-title="LATINO",DW
 http://live.lordstreams.co:8080/68541544/56220369/4218
+#EXTINF:-1 group-title="LATINO",LIFE TIME
+http://8.242.172.250:45000/play/a03l
 #EXTINF:-1 group-title="LATINO",E
 http://live.lordstreams.co:8080/68541544/56220369/4219
 #EXTINF:-1 group-title="LATINO",FOOD NETWORK
@@ -111,9 +103,11 @@ http://live.lordstreams.co:8080/68541544/56220369/4258
 http://live.lordstreams.co:8080/68541544/56220369/4259
 #EXTINF:-1 group-title="LATINO",PARAMONT NETWORK
 http://live.lordstreams.co:8080/68541544/56220369/4276
+#EXTINF:-1 group-title="LATINO",SONY
+http://8.242.172.250:45000/play/a00b
 #EXTINF:-1 group-title="LATINO",SONY MOVIES
 http://live.lordstreams.co:8080/68541544/56220369/4279
-#EXTINF:-1 group-title="LATINO",SPACES
+#EXTINF:-1 group-title="LATINO",SPACE
 http://live.lordstreams.co:8080/68541544/56220369/4280
 #EXTINF:-1 group-title="LATINO",STAR CHANNEL
 http://live.lordstreams.co:8080/68541544/56220369/4281
@@ -157,6 +151,8 @@ http://live.lordstreams.co:8080/68541544/56220369/40649
 http://live.lordstreams.co:8080/68541544/56220369/40651
 #EXTINF:-1 group-title="LATINO",DISCOVERY ESPAÑOL
 http://live.lordstreams.co:8080/68541544/56220369/40625
+#EXTINF:-1 group-title="LATINO",TELEMUNDO
+http://8.242.172.250:45000/play/a04z
 #EXTINF:-1 group-title="LATINO",TELEMUNDO INT
 http://live.lordstreams.co:8080/68541544/56220369/50921
 #EXTINF:-1 group-title="LATINO",TELEMUNDO NOTICIAS
@@ -211,6 +207,8 @@ http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78706
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78729
 #EXTINF:-1 group-title="CHILE",CHV
 http://190.119.123.220:4000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="CHILE",LA RED
+http://8.242.172.250:45000/play/a093
 #EXTINF:-1 group-title="ESPAÑA",ANTENA 3
 http://live.lordstreams.co:8080/68541544/56220369/4171
 #EXTINF:-1 group-title="ESPAÑA",EUROPA
@@ -557,4 +555,10 @@ http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78717
 http://190.119.123.220:4000/play/liga1max/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Liga 1 Staelite
 http://190.119.123.220:4000/play/liga1/index.m3u8
+#EXTINF:-1 group-title="SPORTS",GOL PERU
+http://200.60.124.19:29000/play/a00b
+#EXTINF:-1 group-title="SPORTS",GOL TV
+http://200.60.124.19:29000/play/a007
+#EXTINF:-1 group-title="SPORTS", MOVISTAR
+http://200.60.124.19:29000/play/a06p
 
