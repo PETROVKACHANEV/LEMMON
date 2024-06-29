@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="LATINO", MOVIE
-https://be7713.rcr82.waw05.cdn112.com/hls2/02/05333/uaz6cbwd0eq8_x/master.m3u8?t=k0wWQFKDHUThFjZ6qODLtYxydNgle1fg-N2QJ7OpPww&s=1719560284&e=43200&f=26667239&srv=30&asn=265691&sp=5500
+#EXTINF:-1 group-title="LATINO",spn
+https://records.pricesaskeloadsc.com/starplus02/tracks-v1a1/mono.m3u8 
 #EXTINF:----------------------------------LATIN-----------------------------------
 #EXTINF:-1 group-title="LATINO",A&E
 http://190.119.123.220:4000/play/a004/index.m3u8
